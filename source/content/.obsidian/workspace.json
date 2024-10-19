@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Despliegue-de-aplicaciones-web/kubernetes/1.-introduccion-a-kubernetes/README.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
         ]
@@ -164,8 +164,8 @@
   },
   "active": "5686a6208b0cb6cd",
   "lastOpenFiles": [
-    "Despliegue-de-aplicaciones-web/kubernetes/1.-introduccion-a-kubernetes/1.1-implantacion-de-aplicaciones-web-en-contenedores.md",
     "Despliegue-de-aplicaciones-web/kubernetes/1.-introduccion-a-kubernetes/README.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/1.-introduccion-a-kubernetes/1.1-implantacion-de-aplicaciones-web-en-contenedores.md",
     "Despliegue-de-aplicaciones-web/kubernetes/1.-introduccion-a-kubernetes/1.5-arquitectura-basica-de-kubernetes.md",
     "Despliegue-de-aplicaciones-web/kubernetes/1.-introduccion-a-kubernetes/1.2-docker.md",
     "Despliegue-de-aplicaciones-web/kubernetes/1.-introduccion-a-kubernetes/1.3-orquestadores-de-contenedores.md",

@@ -13,7 +13,7 @@ title: Rafael del Río - Mi web de apuntes
 
 ## Qué es este proyecto
 
-En primer lugar, para facilitar la comprensión, directamente enlazo a la web del proyecto, donde se puede usar: [https://rafaeldelrio.gitbook.io/](https://rafaeldelrio.gitbook.io)
+En primer lugar, para facilitar la comprensión, directamente enlazo a la web del proyecto, donde se puede usar: [https://rafaeldelrio.github.io/](https://rafaeldelrio.github.io)
 
 Este proyecto surge de la necesidad de documentar de una forma cómoda y útil todo el conocimiento que se va generando a medida que se realizan distintos retos de ciberseguridad, también conocidos como captura la bandera o CTF.
 
@@ -23,7 +23,7 @@ Este proyecto ha sido creado con el propósito, en primer lugar, de ser útil pa
 
 ## Cómo puedo acceder al proyecto
 
-Como comentaba anteriormente, se puede acceder al proyecto directamente empleando la url: [https://rafaeldelrio.gitbook.io](https://rafaeldelrio.gitbook.io)
+Como comentaba anteriormente, se puede acceder al proyecto directamente empleando la url: [https://rafaeldelrio.github.io](https://rafaeldelrio.github.io)
 
 El código fuente de todo lo documentado se encuentra en: [https://github.com/RafaeldelRio/rafaeldelrio.github.io](https://github.com/RafaeldelRio/rafaeldelrio.github.io)
 
