@@ -1,6 +1,7 @@
-# Table of contents
-
-* [README.md](README.md)
+---
+title: Despliegue de aplicaciones web
+---
+* [README.md](Despliegue-de-aplicaciones-web/kubernetes/README.md)
 * [Kubernetes](kubernetes/README.md)
   * [1. Introducción a Kubernetes](kubernetes/1.-introduccion-a-kubernetes/README.md)
     * [1.1 Implantación de aplicaciones web en contenedores](kubernetes/1.-introduccion-a-kubernetes/1.1-implantacion-de-aplicaciones-web-en-contenedores.md)

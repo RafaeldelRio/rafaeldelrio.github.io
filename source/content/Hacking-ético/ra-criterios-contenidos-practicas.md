@@ -1,10 +1,10 @@
 # RA - Criterios - Contenidos - Prácticas
 
-**RA 1. Determina herramientas de monitorización para detectar vulnerabilidades aplicando técnicas de hacking ético.**&#x20;
+**RA 1. Determina herramientas de monitorización para detectar vulnerabilidades aplicando técnicas de hacking ético.**
 
-Criterios de evaluación:&#x20;
+Criterios de evaluación:
 
-a) Se ha definido la terminología esencial del hacking ético.&#x20;
+a) Se ha definido la terminología esencial del hacking ético.
 
 * Contenido asociado: Elementos esenciales del hacking ético.
 
@@ -39,11 +39,11 @@ f) Se han analizado y definido los tipos vulnerabilidades.
 
 
 
-g) Se han analizado y definido los tipos de ataque.&#x20;
+g) Se han analizado y definido los tipos de ataque.
 
 
 
-h) Se han determinado y caracterizado las diferentes vulnerabilidades existentes.&#x20;
+h) Se han determinado y caracterizado las diferentes vulnerabilidades existentes.
 
 
 
