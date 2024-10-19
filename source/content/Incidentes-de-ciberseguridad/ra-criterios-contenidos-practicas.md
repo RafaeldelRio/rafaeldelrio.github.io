@@ -1,6 +1,6 @@
 # RA - Criterios - Contenidos - Prácticas
 
-**RA1. Desarrolla planes de prevención y concienciación en ciberseguridad, estableciendo normas y medidas de protección.**
+## RA1. Desarrolla planes de prevención y concienciación en ciberseguridad, estableciendo normas y medidas de protección.
 
 Criterios de evaluación:
 
@@ -50,13 +50,10 @@ Materiales para trabajar esto:
 
 e) Se ha realizado una auditoría para verificar el cumplimiento del plan de prevención y concienciación de la organización.
 
-* Contenido asociado: Auditorías internas de cumplimiento en materia de prevención.\
-  \
-  \
-  \
+* Contenido asociado: Auditorías internas de cumplimiento en materia de prevención.
 
 
-#### 2. Analiza incidentes de ciberseguridad utilizando herramientas, mecanismos de detección y alertas de seguridad.
+## 2. Analiza incidentes de ciberseguridad utilizando herramientas, mecanismos de detección y alertas de seguridad.
 
 Criterios de evaluación:
 
@@ -102,10 +99,10 @@ e) Se ha realizado una clasificación, valoración, documentación y seguimiento
 
 
 
-\
 
 
-#### 3. Investiga incidentes de ciberseguridad analizando los riesgos implicados y definiendo las posibles medidas a adoptar.
+
+## 3. Investiga incidentes de ciberseguridad analizando los riesgos implicados y definiendo las posibles medidas a adoptar.
 
 Criterios de evaluación:
 
@@ -141,11 +138,9 @@ e) Se han iniciado las primeras medidas de contención de los incidentes para li
 
 
 
-\
-\
 
 
-#### 4. Implementa medidas de ciberseguridad en redes y sistemas respondiendo a los incidentes detectados y aplicando las técnicas de protección adecuadas.
+## 4. Implementa medidas de ciberseguridad en redes y sistemas respondiendo a los incidentes detectados y aplicando las técnicas de protección adecuadas.
 
 Criterios de evaluación:
 
@@ -185,11 +180,9 @@ f) Se ha realizado un seguimiento adecuado del incidente para evitar que una sit
 
 
 
-\
-\
 
 
-#### 5. Detecta y documenta incidentes de ciberseguridad siguiendo procedimientos de actuación establecidos.
+## 5. Detecta y documenta incidentes de ciberseguridad siguiendo procedimientos de actuación establecidos.
 
 Criterios de evaluación:
 

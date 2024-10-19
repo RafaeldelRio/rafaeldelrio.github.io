@@ -3,7 +3,7 @@ title: Hacking ético
 ---
 
 En primer lugar vamos a analizar los resultados de aprendizaje, criterios de evaluación, contenidos y posibles enlaces a las prácticas a realizar:
-[[ra-criterios-contenidos-practicas|RA - criterios - contenidos - prácticas]]
+[[Hacking-ético/ra-criterios-contenidos-practicas|RA - criterios - contenidos - prácticas]]
 
 
 Otros artículos
@@ -20,4 +20,4 @@ Otros artículos
 * [Análisis de archivos (hash)](analisis-de-archivos-hash.md)
 * [Hacking web](hacking-web/README.md)
   * [Hydra](hydra.md)
-* [RA - Criterios - Contenidos - Prácticas](ra-criterios-contenidos-practicas.md)
+* [RA - Criterios - Contenidos - Prácticas](Hacking-ético/ra-criterios-contenidos-practicas.md)

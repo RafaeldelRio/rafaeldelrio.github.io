@@ -1,6 +1,6 @@
-# NC - RA - Criterios - Contenidos - Prácticas
+# RA - Criterios - Contenidos - Prácticas
 
-#### 1. Identifica los puntos principales de aplicación para asegurar el cumplimiento normativo reconociendo funciones y responsabilidades.
+## 1. Identifica los puntos principales de aplicación para asegurar el cumplimiento normativo reconociendo funciones y responsabilidades.
 
 Criterios de evaluación:
 
@@ -32,11 +32,10 @@ e) Se han establecido las relaciones con terceros para un correcto cumplimiento 
 
 * Contenido asociado: Relaciones con terceras partes dentro del Compliance.
 
-\
-\
 
 
-#### 2. Diseña sistemas de cumplimiento normativo seleccionando la legislación y jurisprudencia de aplicación.
+
+## 2. Diseña sistemas de cumplimiento normativo seleccionando la legislación y jurisprudencia de aplicación.
 
 Criterios de evaluación:
 
@@ -62,11 +61,10 @@ d) Se ha documentado el sistema de cumplimiento normativo diseñado.
 
 * Contenido asociado: Documentación del sistema de cumplimiento normativo diseñado.
 
-\
-\
 
 
-#### 3. Relaciona la normativa relevante para el cumplimiento de la responsabilidad penal de las organizaciones y personas jurídicas con los procedimientos establecidos, recopilando y aplicando las normas vigentes.
+
+## 3. Relaciona la normativa relevante para el cumplimiento de la responsabilidad penal de las organizaciones y personas jurídicas con los procedimientos establecidos, recopilando y aplicando las normas vigentes.
 
 Criterios de evaluación:
 
@@ -90,11 +88,10 @@ d) Se han determinado los principios básicos dentro de las organizaciones para 
 
 * Contenido asociado: Sistemas de gestión anticorrupción.
 
-\
-\
 
 
-#### 4. Aplica la legislación nacional de protección de datos de carácter personal, relacionando los procedimientos establecidos con las leyes vigentes y con la jurisprudencia existente sobre la materia.
+
+## 4. Aplica la legislación nacional de protección de datos de carácter personal, relacionando los procedimientos establecidos con las leyes vigentes y con la jurisprudencia existente sobre la materia.
 
 Criterios de evaluación:
 
@@ -130,11 +127,10 @@ g) Se han descrito las funciones o competencias del delegado de protección de d
 
 * Contenido asociado: Delegado de Protección de Datos (DPO).
 
-\
-\
 
 
-#### 5. Recopila y aplica la normativa vigente de ciberseguridad de ámbito nacional e internacional, actualizando los procedimientos establecidos de acuerdo con las leyes y con la jurisprudencia existente sobre la materia.
+
+## 5. Recopila y aplica la normativa vigente de ciberseguridad de ámbito nacional e internacional, actualizando los procedimientos establecidos de acuerdo con las leyes y con la jurisprudencia existente sobre la materia.
 
 Criterios de evaluación:
 

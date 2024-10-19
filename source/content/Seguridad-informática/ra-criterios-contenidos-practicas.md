@@ -1,6 +1,6 @@
-# SEGIN - RA - Criterios - Contenidos - Prácticas
+# RA - Criterios - Contenidos - Prácticas
 
-**RA 1. Aplica medidas de seguridad pasiva en sistemas informáticos describiendo características de entornos y relacionándolas con sus necesidades.**
+## RA 1. Aplica medidas de seguridad pasiva en sistemas informáticos describiendo características de entornos y relacionándolas con sus necesidades.
 
 Criterios de evaluación:
 
@@ -32,7 +32,7 @@ i) Se han valorado las ventajas que supone la utilización de sistemas biométri
 
 
 
-**RA 2. Gestiona dispositivos de almacenamiento describiendo los procedimientos efectuados y aplicando técnicas para asegurar la integridad de la información.**
+## RA 2. Gestiona dispositivos de almacenamiento describiendo los procedimientos efectuados y aplicando técnicas para asegurar la integridad de la información.
 
 Criterios de evaluación
 
@@ -77,7 +77,7 @@ j) Se han creado y restaurado imágenes de respaldo de sistemas en funcionamient
 
 
 
-**RA 3. Aplica mecanismos de seguridad activa describiendo sus características y relacionándolas con las necesidades de uso del sistema informático.**
+##  RA 3. Aplica mecanismos de seguridad activa describiendo sus características y relacionándolas con las necesidades de uso del sistema informático.
 
 Criterios de evaluación
 
@@ -115,7 +115,7 @@ f) Se han aplicado técnicas de recuperación de datos.
 
 
 
-**RA 4. Asegura la privacidad de la información transmitida en redes informáticas describiendo vulnerabilidades e instalando software específico.**
+## RA 4. Asegura la privacidad de la información transmitida en redes informáticas describiendo vulnerabilidades e instalando software específico.
 
 Criterios de evaluación
 
@@ -153,7 +153,7 @@ h) Se ha instalado y configurado un cortafuegos en un equipo o servidor.
 
 
 
-**RA 5. Reconoce la legislación y normativa sobre seguridad y protección de datos analizando las repercusiones de su incumplimiento.**
+## RA 5. Reconoce la legislación y normativa sobre seguridad y protección de datos analizando las repercusiones de su incumplimiento.
 
 Criterios de evaluación
 

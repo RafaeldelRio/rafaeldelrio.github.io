@@ -1,6 +1,6 @@
 # RA - Criterios - Contenidos - Prácticas
 
-**RA 1. Determina herramientas de monitorización para detectar vulnerabilidades aplicando técnicas de hacking ético.**
+## RA 1. Determina herramientas de monitorización para detectar vulnerabilidades aplicando técnicas de hacking ético.
 
 Criterios de evaluación:
 
@@ -60,7 +60,7 @@ i) Se han determinado las herramientas de monitorización disponibles en el merc
 
 
 
-**RA 2. Ataca y defiende en entornos de prueba, comunicaciones inalámbricas consiguiendo acceso a redes para demostrar sus vulnerabilidades.**
+## RA 2. Ataca y defiende en entornos de prueba, comunicaciones inalámbricas consiguiendo acceso a redes para demostrar sus vulnerabilidades.
 
 Criterios de evaluación:
 
@@ -103,7 +103,7 @@ g) Se han realizado informes sobre las vulnerabilidades detectadas.
 
 
 
-**RA 3. Ataca y defiende en entornos de prueba, redes y sistemas consiguiendo acceso a información y sistemas de terceros.**
+##  RA 3. Ataca y defiende en entornos de prueba, redes y sistemas consiguiendo acceso a información y sistemas de terceros.
 
 Criterios de evaluación:
 
@@ -134,7 +134,7 @@ e) Se han comprometido sistemas remotos explotando sus vulnerabilidades.
 
 
 
-**RA 4. Consolida y utiliza sistemas comprometidos garantizando accesos futuros.**
+##  RA 4. Consolida y utiliza sistemas comprometidos garantizando accesos futuros.
 
 Criterios de evaluación:
 
@@ -164,7 +164,7 @@ d) Se han instalado puertas traseras para garantizar accesos futuros a los siste
 
 
 
-**RA 5. Ataca y defiende en entornos de prueba, aplicaciones web consiguiendo acceso a datos o funcionalidades no autorizadas.**
+##  RA 5. Ataca y defiende en entornos de prueba, aplicaciones web consiguiendo acceso a datos o funcionalidades no autorizadas.
 
 Criterios de evaluación:
 
