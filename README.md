@@ -1,23 +1,50 @@
-# Obsidian / Quartz / GitHub Pages Template
+# Documentación e ideas
 
-Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template
+Proyecto de documentación de módulos profesionales, así como la generación de ideas y la resolución de CTFs y prácticas.
 
-Template for hosting your Obsidian notebook on GitHub pages with CI deployment. 
+Desplegado en https://rafaeldelrio.github.io
 
-## Basic setup
 
-Full tutorial with screenshots & videos: https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1. 
+## Cómo lanzar el proyecto
 
-It's basically (1) fork this (2) go to repo's "Settings" > "Pages", Under "Build and Deployment" select GitHub Actions. Then go to "Actions" and enable GitHub actions for your fork. Edit the pages in [source/content](./source/content) with Obsidian or any text editor. It generates HTML using [Quartz](https://github.com/jackyzha0/quartz). To generate the HTML locally, run `npx quartz build --serve` in `./source/`
+Prerrequisitos:
+- Tener nodejs instalado, con versión moderna.
+- Tener npm instalado, con versión moderna.
+- Tener git instalado.
 
-## Raw HTML pages
+git clone https://github.com/RafaeldelRio/rafaeldelrio.github.io.git
+cd rafaeldelrio.github.io/source
+npm i
+npx quartz build --serve
 
-There is a [source/raw_html](./source/raw_html) folder that gets copied into the build folder in CI. This lets you host arbitrary HTML outside of quartz. Example: https://defenderofbasic.github.io/obsidian-quartz-template/raw-html-test.html
 
-I made the "raw HTML" option for people who are generating HTML UI's with Claude/ChatGPT but want to tweak them/host them themselves. Or make a personal archive of web pages, etc.
+## Cómo desplegar el proyecto en github actions
 
-## Further customization
+Básicamente se realiza un fork del proyecto con tu cuenta de Github. Posteriormente en el repositorio de Github acceder a 
+Settings --> Pages y seleccionar "Github Actions.
+Posteriormente acceder al apartado de Actions y permitir las "Github Actions".
+Finalmente para añadir contenido y lanzar el primer despliegue, editar la carpeta /source/content, que es donde está el contenido de la documentación.
 
-> Quartz is meant to be extremely configurable, even if you don’t know any coding. Most of the configuration you should need can be done by just editing quartz.config.ts or changing the layout in quartz.layout.ts.
+Recomiendo encarecidamente el uso de Obsidian para la edición de la documentación.
+
+
+El proyecto quartz tiene su documentación en https://github.com/jackyzha0/quartz
+
+El tutorial para el despliegue seguido está en:
+ https://dev.to/defenderofbasic/host-your-obsidian-notebook-on-github-pages-for-free-8l1. 
+
+
+## Añadir páginas HTML directamente
+
+Existe la posibilidad de añadir páginas HTML directamente, además de los archivos .md de markdown que genera obsidian u otros editores.
+Para el despliegue de archivos HTML se usa la carpeta [source/raw_html](./source/raw_html) que es copiada directamente en el proceso de CI.
+
+Un ejemplo puede encontrarse en: https://rafaeldelrio.github.io/raw-html-test.html
+
+
+## Para configuraciones del tema
+
+La configuración del tema de Quartz puede ser realizada modificando los archivos quartz.config.ts.
+También es posible modificar la distribución (layout) en quartz.layout.ts.
 
 https://quartz.jzhao.xyz/configuration
