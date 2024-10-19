@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "9697f3b529cd0b3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c305d9ed5efd6239",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9966808633ae0d91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hacking-web/hydra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hydra"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9df5466e5b2b4bac",
+    "type": "split",
+    "children": [
+      {
+        "id": "3555a7f211ce8f1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb83dc2817030448",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b6eb7cad99e725d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "88c01a7266c722ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c63caa72e4e38af5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c0af88453af01c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb3d8c94edd36ef9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hacking-web/hydra.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for hydra"
+            }
+          },
+          {
+            "id": "76f5756a5a7b0a4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hacking-web/hydra.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from hydra"
+            }
+          },
+          {
+            "id": "93e4534af096073e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "082954fbf18c7546",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hacking-web/hydra.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of hydra"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9966808633ae0d91",
+  "lastOpenFiles": [
+    "cracking-hashes/cewl.md",
+    "hacking-web/hydra.md",
+    "hacking-web/README.md",
+    "cracking-hashes/haiti.md",
+    "webs-para-aprender-mas.md",
+    "Untitled.canvas",
+    "README.md",
+    "SUMMARY.md",
+    "cracking-hashes/README.md",
+    "cracking-hashes/john-the-ripper.md",
+    "2024-10-18.md",
+    "cracking-hashes/hashcat.md",
+    "post-explotacion/msfvenom.md",
+    "analisis-de-archivos-hash.md",
+    "analisis-de-logs.md",
+    "ra-criterios-contenidos-practicas.md",
+    "post-explotacion/README.md"
+  ]
+}
