@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Despliegue-de-aplicaciones-web/kubernetes/1.-introduccion-a-kubernetes/1.1-implantacion-de-aplicaciones-web-en-contenedores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "1.1-implantacion-de-aplicaciones-web-en-contenedores"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Despliegue-de-aplicaciones-web/kubernetes/1.-introduccion-a-kubernetes/1.1-implantacion-de-aplicaciones-web-en-contenedores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for 1.1-implantacion-de-aplicaciones-web-en-contenedores"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Despliegue-de-aplicaciones-web/kubernetes/1.-introduccion-a-kubernetes/1.1-implantacion-de-aplicaciones-web-en-contenedores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from 1.1-implantacion-de-aplicaciones-web-en-contenedores"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Despliegue-de-aplicaciones-web/kubernetes/1.-introduccion-a-kubernetes/1.1-implantacion-de-aplicaciones-web-en-contenedores.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of 1.1-implantacion-de-aplicaciones-web-en-contenedores"
             }
           }
         ]
@@ -165,41 +165,51 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Despliegue de aplicaciones web/SUMMARY.md",
-    "Despliegue de aplicaciones web/README.md",
-    "Despliegue de aplicaciones web/devops.md",
-    "Despliegue de aplicaciones web/consejos-busqueda-de-trabajo.md",
-    "Despliegue de aplicaciones web/kubernetes/README.md",
-    "Despliegue de aplicaciones web/kubernetes/9.-otras-cargas-de-trabajo/ejemplo-despliegue-de-un-cluster-con-mysql.md",
-    "Despliegue de aplicaciones web/kubernetes/9.-otras-cargas-de-trabajo/README.md",
-    "Despliegue de aplicaciones web/kubernetes/9.-otras-cargas-de-trabajo/9.3-jobs-y-cronjobs.md",
-    "Despliegue de aplicaciones web/kubernetes/9.-otras-cargas-de-trabajo/9.2-daemonsets.md",
-    "Despliegue de aplicaciones web/kubernetes/9.-otras-cargas-de-trabajo/9.1-statefulsets.md",
-    "Despliegue de aplicaciones web/kubernetes/9.-otras-cargas-de-trabajo",
-    "Despliegue de aplicaciones web/kubernetes/8.-almacenamiento-en-kubernetes/ejemplo-3-wordpress-con-almacenamiento-persistente.md",
-    "Despliegue de aplicaciones web/kubernetes/8.-almacenamiento-en-kubernetes/ejemplo-2-gestion-dinamica-de-volumenes.md",
-    "Despliegue de aplicaciones web/kubernetes/8.-almacenamiento-en-kubernetes/ejemplo-1-gestion-estatica-de-volumenes.md",
-    "Despliegue de aplicaciones web/kubernetes/8.-almacenamiento-en-kubernetes/README.md",
-    "Despliegue de aplicaciones web/kubernetes/8.-almacenamiento-en-kubernetes/8.4-uso-de-volumenes.md",
-    "Despliegue de aplicaciones web/kubernetes/8.-almacenamiento-en-kubernetes/8.3-solicitud-de-volumenes.md",
-    "Despliegue de aplicaciones web/kubernetes/8.-almacenamiento-en-kubernetes/8.2-aprovisionamiento-de-volumenes.md",
-    "Despliegue de aplicaciones web/kubernetes/8.-almacenamiento-en-kubernetes/8.1-volumenes-en-kubernetes.md",
-    "Despliegue de aplicaciones web/kubernetes/8.-almacenamiento-en-kubernetes",
-    "Despliegue de aplicaciones web/kubernetes/7.-despliegues-parametrizados/README.md",
-    "Despliegue de aplicaciones web/kubernetes/7.-despliegues-parametrizados/7.4-ejemplo-completo-despliegue-y-acceso-a-wordpress-+-mariadb.md",
-    "Despliegue de aplicaciones web/kubernetes/7.-despliegues-parametrizados/7.3-secrets.md",
-    "Despliegue de aplicaciones web/kubernetes/7.-despliegues-parametrizados/7.2-configmaps.md",
-    "Despliegue de aplicaciones web/kubernetes/7.-despliegues-parametrizados/7.1-variables-de-entorno.md",
-    "Despliegue de aplicaciones web/kubernetes/7.-despliegues-parametrizados",
-    "Despliegue de aplicaciones web/kubernetes/6.-acceso-a-las-aplicaciones-services/README.md",
-    "Despliegue de aplicaciones web/kubernetes/6.-acceso-a-las-aplicaciones-services/6.5-ejemplo-completo-aplicacion-de-temperaturas.md",
-    "Despliegue de aplicaciones web/kubernetes/6.-acceso-a-las-aplicaciones-services/6.4-ingress-controller.md",
-    "Despliegue de aplicaciones web/kubernetes/6.-acceso-a-las-aplicaciones-services",
-    "Despliegue de aplicaciones web/kubernetes/5.-despliegues-deployments",
-    "Despliegue de aplicaciones web/kubernetes/4.-tolerancia-y-escalabilidad-replicasets",
-    "Despliegue de aplicaciones web/kubernetes/3.-contenedores-en-kubernetes-pods",
-    "Despliegue de aplicaciones web/kubernetes/2.-instalacion-de-kubernetes",
-    "Despliegue de aplicaciones web/kubernetes/10.-instalacion-de-aplicaciones-en-kubernetes-con-helm",
-    "Despliegue de aplicaciones web/kubernetes/1.-introduccion-a-kubernetes"
+    "Despliegue-de-aplicaciones-web/assets/wordpress.png",
+    "Despliegue-de-aplicaciones-web/assets/windows12.png",
+    "Despliegue-de-aplicaciones-web/assets/windows11.png",
+    "Despliegue-de-aplicaciones-web/assets/temperaturas3.png",
+    "Despliegue-de-aplicaciones-web/assets/temperaturas2.png",
+    "Despliegue-de-aplicaciones-web/assets/temperaturas1.png",
+    "Despliegue-de-aplicaciones-web/assets/paso9.png",
+    "Despliegue-de-aplicaciones-web/assets/paso8.png",
+    "Despliegue-de-aplicaciones-web/assets/paso7.png",
+    "Despliegue-de-aplicaciones-web/assets/paso6.png",
+    "Despliegue-de-aplicaciones-web/assets/paso5.png",
+    "Despliegue-de-aplicaciones-web/assets/nginx-deployment.yaml",
+    "Despliegue-de-aplicaciones-web/assets",
+    "index.md",
+    "Despliegue-de-aplicaciones-web/gitbook/assets/docker.png.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/9.-otras-cargas-de-trabajo/ejemplo-despliegue-de-un-cluster-con-mysql.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/9.-otras-cargas-de-trabajo/README.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/9.-otras-cargas-de-trabajo/9.3-jobs-y-cronjobs.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/9.-otras-cargas-de-trabajo/9.2-daemonsets.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/9.-otras-cargas-de-trabajo/9.1-statefulsets.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/8.-almacenamiento-en-kubernetes/ejemplo-3-wordpress-con-almacenamiento-persistente.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/8.-almacenamiento-en-kubernetes/ejemplo-2-gestion-dinamica-de-volumenes.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/8.-almacenamiento-en-kubernetes/ejemplo-1-gestion-estatica-de-volumenes.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/8.-almacenamiento-en-kubernetes/README.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/8.-almacenamiento-en-kubernetes/8.4-uso-de-volumenes.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/8.-almacenamiento-en-kubernetes/8.3-solicitud-de-volumenes.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/8.-almacenamiento-en-kubernetes/8.2-aprovisionamiento-de-volumenes.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/8.-almacenamiento-en-kubernetes/8.1-volumenes-en-kubernetes.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/7.-despliegues-parametrizados/README.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/7.-despliegues-parametrizados/7.4-ejemplo-completo-despliegue-y-acceso-a-wordpress-+-mariadb.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/7.-despliegues-parametrizados/7.3-secrets.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/7.-despliegues-parametrizados/7.2-configmaps.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/7.-despliegues-parametrizados/7.1-variables-de-entorno.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/6.-acceso-a-las-aplicaciones-services/README.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/6.-acceso-a-las-aplicaciones-services/6.5-ejemplo-completo-aplicacion-de-temperaturas.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/6.-acceso-a-las-aplicaciones-services/6.4-ingress-controller.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/6.-acceso-a-las-aplicaciones-services/6.3-servicio-dns-en-kubernetes.md",
+    "Despliegue-de-aplicaciones-web/kubernetes/6.-acceso-a-las-aplicaciones-services/6.2-gestionando-los-services.md",
+    "Despliegue-de-aplicaciones-web/gitbook/assets/nginx-deployment.yaml",
+    "Despliegue-de-aplicaciones-web/kubernetes/9.-otras-cargas-de-trabajo",
+    "Despliegue-de-aplicaciones-web/kubernetes/8.-almacenamiento-en-kubernetes",
+    "Despliegue-de-aplicaciones-web/kubernetes/7.-despliegues-parametrizados",
+    "Despliegue-de-aplicaciones-web/kubernetes/6.-acceso-a-las-aplicaciones-services",
+    "Despliegue-de-aplicaciones-web/kubernetes/5.-despliegues-deployments",
+    "Despliegue-de-aplicaciones-web/kubernetes/4.-tolerancia-y-escalabilidad-replicasets",
+    "Despliegue-de-aplicaciones-web/kubernetes/3.-contenedores-en-kubernetes-pods"
   ]
 }
