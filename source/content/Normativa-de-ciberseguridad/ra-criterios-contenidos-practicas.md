@@ -14,6 +14,8 @@ b) Se han descrito y aplicado los principios de un buen gobierno y su relación 
 
 * Contenido asociado: Principios del buen gobierno y ética empresarial.
 
+Prácticas:
+- https://tryhackme.com/r/room/cybergovernanceregulation
 
 
 c) Se han definido las políticas y procedimientos, así como la estructura organizativa que establezca la cultura del cumplimiento normativo dentro de las organizaciones.

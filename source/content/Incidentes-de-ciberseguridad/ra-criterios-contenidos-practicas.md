@@ -8,13 +8,9 @@ a) Se han definido los principios generales de la organización en materia de ci
 
 * Contenido asociado: Principios generales en materia de ciberseguridad.
 
-Práctica de TryHackMe:
-
-
-
-Otras Rooms o prácticas interesantes:
-
-
+Prácticas:
+- https://tryhackme.com/r/room/careersincyber
+- https://tryhackme.com/r/room/securityprinciples
 
 
 
@@ -24,17 +20,9 @@ b) Se ha establecido una normativa de protección del puesto de trabajo.
 
 
 
-
-
-
-
-
-
 c) Se ha definido un plan de concienciación de ciberseguridad dirigido a los empleados.
 
 * Contenido asociado: Plan de formación y concienciación en materia de ciberseguridad.
-
-
 
 
 

@@ -8,6 +8,9 @@ a) Se ha definido la terminología esencial del hacking ético.
 
 * Contenido asociado: Elementos esenciales del hacking ético.
 
+Prácticas
+- Carreras de ciber: https://tryhackme.com/r/room/careersincyber
+- Intro a Linux: https://tryhackme.com/r/room/linuxfundamentalspart1
 
 
 b) Se han identificado los conceptos éticos y legales frente al ciberdelito.
@@ -23,6 +26,7 @@ c) Se ha definido el alcance y condiciones de un test de intrusión.
 
 
 d) Se han identificado los elementos esenciales de seguridad: confidencialidad, autenticidad, integridad y disponibilidad.
+- https://tryhackme.com/r/room/securityprinciples
 
 
 
@@ -30,6 +34,9 @@ e) Se han identificado las fases de un ataque seguidas por un atacante.
 
 * Contenido asociado: Fases del hacking.
 * Contenido asociado: Auditorías de caja negra y de caja blanca.
+
+Prácticas:
+- https://tryhackme.com/r/room/cyberkillchainzmt
 
 
 
@@ -40,7 +47,7 @@ f) Se han analizado y definido los tipos vulnerabilidades.
 
 
 g) Se han analizado y definido los tipos de ataque.
-
+- Biene perfecta: https://tryhackme.com/r/room/commonattacks
 
 
 h) Se han determinado y caracterizado las diferentes vulnerabilidades existentes.
@@ -69,13 +76,21 @@ a) Se han configurado los distintos modos de funcionamiento de las tarjetas de r
 * Contenido asociado: Comunicación inalámbrica.
 * Contenido asociado: Modo infraestructura, ad-hoc y monitor.
 
+Prácticas:
+- Intro a redes: https://tryhackme.com/r/room/whatisnetworking
+
 
 
 b) Se han descrito las técnicas de encriptación de las redes inalámbricas y sus puntos vulnerables.
 
+
+
 c) Se han detectado redes inalámbricas y se ha capturado tráfico de red como paso previo a su ataque.
 
 * Contenido asociado: Análisis y recolección de datos en redes inalámbricas.
+
+Prácticas:
+- Wifi: https://tryhackme.com/r/room/wifihacking101
 
 
 
@@ -114,6 +129,9 @@ a) Se ha recopilado información sobre la red y sistemas objetivo mediante técn
 b) Se ha creado un inventario de equipos, cuentas de usuario y potenciales vulnerabilidades de la red y sistemas objetivo mediante técnicas activas.
 
 * Contenido asociado: Fase de escaneo (fingerprinting).
+
+Práctica:
+- https://tryhackme.com/r/room/networkservices
 
 c) Se ha interceptado tráfico de red de terceros para buscar información sensible.
 

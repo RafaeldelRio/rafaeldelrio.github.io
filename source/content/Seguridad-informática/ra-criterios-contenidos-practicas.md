@@ -4,9 +4,14 @@
 
 Criterios de evaluación:
 
-a) Se ha valorado la importancia de mantener la información segura.&#x20;
+a) Se ha valorado la importancia de mantener la información segura.
 
 * Contenido asociado: C 1.1 - Seguridad informática. Clasificación, técnicas y prácticas de tratamiento seguro de la información.
+
+Prácticas:
+* https://tryhackme.com/r/room/careersincyber
+* https://tryhackme.com/r/room/securityprinciples
+
 
 b) Se han descrito las diferencias entre seguridad física y lógica.
 
@@ -92,6 +97,9 @@ b) Se han clasificado los principales tipos de software malicioso.
 
 * Contenido asociado: C 3.9 - Software malicioso. Clasificación, protección y desinfección.
 
+Prácticas
+- Ataques comunes: https://tryhackme.com/r/room/commonattacks
+
 c) Se han realizado actualizaciones periódicas de los sistemas para corregir posibles vulnerabilidades.
 
 * Contenido asociado: C 3.10 - Auditorias de seguridad.
@@ -137,6 +145,10 @@ e) Se han clasificado y valorado las propiedades de seguridad de los protocolos 
 
 * Contenido asociado: C 4.4 - Seguridad en redes inalámbricas.
 
+Prácticas:
+- Wifi: https://tryhackme.com/r/room/wifihacking101
+
+
 f) Se han descrito sistemas de identificación como la firma electrónica, certificado digital, entre otros.
 
 * Contenido asociado: C 4.1 - Métodos para asegurar la privacidad de la información transmitida.
@@ -172,3 +184,6 @@ e) Se ha descrito la legislación actual sobre los servicios de la sociedad de l
 * Contenido asociado: C 5.2 - Legislación sobre los servicios de la sociedad de la información y correo electrónico.
 
 f) Se han contrastado las normas sobre gestión de seguridad de la información.
+
+Prácticas:
+- https://tryhackme.com/r/room/cybergovernanceregulation

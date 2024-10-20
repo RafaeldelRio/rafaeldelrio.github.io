@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Redes-locales/ra-criterios-contenidos-practicas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ra-criterios-contenidos-practicas"
+            }
+          },
+          {
+            "id": "33a83bae343cac2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Puesta-en-produccion-segura/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "e217d3a058befe26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Puesta-en-produccion-segura/ra-criterios-contenidos-practicas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ra-criterios-contenidos-practicas"
+            }
+          },
+          {
+            "id": "8c801fbfcb22cfea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aplicaciones web/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "24fc28ca85bbe63b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hacking-ético/ra-criterios-contenidos-practicas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ra-criterios-contenidos-practicas"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,8 +219,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5686a6208b0cb6cd",
+  "active": "24fc28ca85bbe63b",
   "lastOpenFiles": [
+    "Servicios-en-red/ra-criterios-contenidos-practicas.md",
+    "Seguridad-informática/ra-criterios-contenidos-practicas.md",
+    "Hacking-ético/ra-criterios-contenidos-practicas.md",
+    "Despliegue-de-aplicaciones-web/ra-criterios-contenidos-practicas.md",
+    "Aplicaciones web/ra-criterios-contenidos-practicas.md",
+    "Redes-locales/ra-criterios-contenidos-practicas.md",
+    "Incidentes-de-ciberseguridad/ra-criterios-contenidos-practicas.md",
+    "Aplicaciones web/index.md",
+    "Puesta-en-produccion-segura/ra-criterios-contenidos-practicas.md",
+    "Aplicaciones web",
+    "Puesta-en-produccion-segura/index.md",
+    "Puesta-en-produccion-segura",
+    "Normativa-de-ciberseguridad/ra-criterios-contenidos-practicas.md",
+    "Hacking-ético/webs-para-aprender-mas.md",
+    "Incidentes-de-ciberseguridad/respuesta-a-incidentes.md",
+    "Hacking-ético/index.md",
+    "Hacking-ético/cracking-hashes/README.md",
+    "Hacking-ético/cracking-hashes/john-the-ripper.md",
+    "index.md",
     "Despliegue-de-aplicaciones-web/kubernetes/1.-introduccion-a-kubernetes/README.md",
     "Despliegue-de-aplicaciones-web/kubernetes/1.-introduccion-a-kubernetes/1.1-implantacion-de-aplicaciones-web-en-contenedores.md",
     "Despliegue-de-aplicaciones-web/kubernetes/1.-introduccion-a-kubernetes/1.5-arquitectura-basica-de-kubernetes.md",
@@ -171,26 +247,9 @@
     "Despliegue-de-aplicaciones-web/kubernetes/1.-introduccion-a-kubernetes/1.3-orquestadores-de-contenedores.md",
     "Despliegue-de-aplicaciones-web/assets/paso1.png",
     "Hacking-ético/cracking-hashes/cewl.md",
-    "Normativa-de-ciberseguridad/ra-criterios-contenidos-practicas.md",
     "Normativa-de-ciberseguridad/index.md",
     "Despliegue-de-aplicaciones-web/kubernetes/README.md",
     "Despliegue-de-aplicaciones-web/index.md",
-    "Hacking-ético/ra-criterios-contenidos-practicas.md",
-    "Incidentes-de-ciberseguridad/ra-criterios-contenidos-practicas.md",
-    "Servicios-en-red/index.md",
-    "Seguridad-informática/index.md",
-    "Redes-locales/index.md",
-    "Seguridad-informática/ra-criterios-contenidos-practicas.md",
-    "Incidentes-de-ciberseguridad/respuesta-a-incidentes.md",
-    "Hacking-ético/index.md",
-    "Hacking-ético/webs-para-aprender-mas.md",
-    "index.md",
-    "Incidentes-de-ciberseguridad/index.md",
-    "Hacking-ético/cracking-hashes/README.md",
-    "Hacking ético/hacking-web/README.md",
-    "Hacking ético/SUMMARY.md",
-    "Hacking ético/README.md",
-    "Despliegue-de-aplicaciones-web/devops.md",
     "Despliegue-de-aplicaciones-web/assets/wordpress.png",
     "Despliegue-de-aplicaciones-web/assets/windows12.png",
     "Despliegue-de-aplicaciones-web/assets/windows11.png",
@@ -207,8 +266,6 @@
     "Despliegue-de-aplicaciones-web/kubernetes/8.-almacenamiento-en-kubernetes",
     "Despliegue-de-aplicaciones-web/kubernetes/7.-despliegues-parametrizados",
     "Despliegue-de-aplicaciones-web/kubernetes/6.-acceso-a-las-aplicaciones-services",
-    "Despliegue-de-aplicaciones-web/kubernetes/5.-despliegues-deployments",
-    "Despliegue-de-aplicaciones-web/kubernetes/4.-tolerancia-y-escalabilidad-replicasets",
-    "Despliegue-de-aplicaciones-web/kubernetes/3.-contenedores-en-kubernetes-pods"
+    "Despliegue-de-aplicaciones-web/kubernetes/5.-despliegues-deployments"
   ]
 }
