@@ -3,56 +3,56 @@ title: Despliegue de aplicaciones web
 ---
 * [README.md](Despliegue-de-aplicaciones-web/kubernetes/README.md)
 * [Kubernetes](kubernetes/README.md)
-  * [1. Introducción a Kubernetes](kubernetes/1.-introduccion-a-kubernetes/README.md)
-    * [1.1 Implantación de aplicaciones web en contenedores](kubernetes/1.-introduccion-a-kubernetes/1.1-implantacion-de-aplicaciones-web-en-contenedores.md)
-    * [1.2 Docker](kubernetes/1.-introduccion-a-kubernetes/1.2-docker.md)
-    * [1.3 Orquestadores de contenedores](kubernetes/1.-introduccion-a-kubernetes/1.3-orquestadores-de-contenedores.md)
-    * [1.4 El proyecto Kubernetes](kubernetes/1.-introduccion-a-kubernetes/1.4-el-proyecto-kubernetes.md)
-    * [1.5 Arquitectura básica de Kubernetes](kubernetes/1.-introduccion-a-kubernetes/1.5-arquitectura-basica-de-kubernetes.md)
-  * [2. Instalación de Kubernetes](kubernetes/2.-instalacion-de-kubernetes/README.md)
-    * [2.1 Alternativas para instalación simple de k8s](kubernetes/2.-instalacion-de-kubernetes/2.1-alternativas-para-instalacion-simple-de-k8s.md)
-    * [2.2 Introducción a la instalación de minikube](kubernetes/2.-instalacion-de-kubernetes/2.2-introduccion-a-la-instalacion-de-minikube.md)
-    * [2.3 Instalación de minikube en linux con KVM/VirtualBox](kubernetes/2.-instalacion-de-kubernetes/2.3-instalacion-de-minikube-en-linux-con-kvm-virtualbox.md)
-    * [2.4 Instalación de minikube en Windows + VirtualBox](kubernetes/2.-instalacion-de-kubernetes/2.4-instalacion-de-minikube-en-windows-+-virtualbox.md)
-    * [2.5 Instalación y configuración de kubectl en linux](kubernetes/2.-instalacion-de-kubernetes/2.5-instalacion-y-configuracion-de-kubectl-en-linux.md)
-    * [2.6 Instalación y configuración de kubectl en windows](kubernetes/2.-instalacion-de-kubernetes/2.6-instalacion-y-configuracion-de-kubectl-en-windows.md)
-    * [2.7 Despliegues de aplicaciones en Kubernetes](kubernetes/2.-instalacion-de-kubernetes/2.7-despliegues-de-aplicaciones-en-kubernetes.md)
-  * [3. Contenedores en Kubernetes: Pods](kubernetes/3.-contenedores-en-kubernetes-pods/README.md)
-    * [3.1 Describiendo un pod](kubernetes/3.-contenedores-en-kubernetes-pods/3.1-describiendo-un-pod.md)
-    * [3.2 Gestionando los pods](kubernetes/3.-contenedores-en-kubernetes-pods/3.2-gestionando-los-pods.md)
-  * [4. Tolerancia y escalabilidad: ReplicaSets](kubernetes/4.-tolerancia-y-escalabilidad-replicasets/README.md)
-    * [4.1 Describiendo un ReplicaSet](kubernetes/4.-tolerancia-y-escalabilidad-replicasets/4.1-describiendo-un-replicaset.md)
-    * [4.2 Gestionando los ReplicaSet](kubernetes/4.-tolerancia-y-escalabilidad-replicasets/4.2-gestionando-los-replicaset.md)
-  * [5. Despliegues: Deployments](kubernetes/5.-despliegues-deployments/README.md)
-    * [5.1 Describiendo un deployment](kubernetes/5.-despliegues-deployments/5.1-describiendo-un-deployment.md)
-    * [5.2 Gestión básica de un deployment](kubernetes/5.-despliegues-deployments/5.2-gestion-basica-de-un-deployment.md)
-    * [5.3 Actualización y desactualización de un deployment](kubernetes/5.-despliegues-deployments/5.3-actualizacion-y-desactualizacion-de-un-deployment.md)
-  * [6. Acceso a las aplicaciones (Services)](kubernetes/6.-acceso-a-las-aplicaciones-services/README.md)
-    * [6.1 Describiendo services](kubernetes/6.-acceso-a-las-aplicaciones-services/6.1-describiendo-services.md)
-    * [6.2 Gestionando los services](kubernetes/6.-acceso-a-las-aplicaciones-services/6.2-gestionando-los-services.md)
-    * [6.3 Servicio DNS en Kubernetes](kubernetes/6.-acceso-a-las-aplicaciones-services/6.3-servicio-dns-en-kubernetes.md)
-    * [6.4 Ingress Controller](kubernetes/6.-acceso-a-las-aplicaciones-services/6.4-ingress-controller.md)
-    * [6.5 Ejemplo completo: aplicación de temperaturas](kubernetes/6.-acceso-a-las-aplicaciones-services/6.5-ejemplo-completo-aplicacion-de-temperaturas.md)
-  * [7. Despliegues parametrizados](kubernetes/7.-despliegues-parametrizados/README.md)
-    * [7.1 Variables de entorno](kubernetes/7.-despliegues-parametrizados/7.1-variables-de-entorno.md)
-    * [7.2 ConfigMaps](kubernetes/7.-despliegues-parametrizados/7.2-configmaps.md)
-    * [7.3 Secrets](kubernetes/7.-despliegues-parametrizados/7.3-secrets.md)
-    * [7.4 Ejemplo completo: Despliegue y acceso a Wordpress + MariaDB](kubernetes/7.-despliegues-parametrizados/7.4-ejemplo-completo-despliegue-y-acceso-a-wordpress-+-mariadb.md)
-  * [8. Almacenamiento en Kubernetes](kubernetes/8.-almacenamiento-en-kubernetes/README.md)
-    * [8.1 Volúmenes en Kubernetes](kubernetes/8.-almacenamiento-en-kubernetes/8.1-volumenes-en-kubernetes.md)
-    * [8.2 Aprovisionamiento de volúmenes](kubernetes/8.-almacenamiento-en-kubernetes/8.2-aprovisionamiento-de-volumenes.md)
-    * [8.3 Solicitud de volúmenes](kubernetes/8.-almacenamiento-en-kubernetes/8.3-solicitud-de-volumenes.md)
-    * [8.4 Uso de volúmenes](kubernetes/8.-almacenamiento-en-kubernetes/8.4-uso-de-volumenes.md)
-    * [Ejemplo 1: Gestión estática de volúmenes](kubernetes/8.-almacenamiento-en-kubernetes/ejemplo-1-gestion-estatica-de-volumenes.md)
-    * [Ejemplo 2: Gestión dinámica de volúmenes](kubernetes/8.-almacenamiento-en-kubernetes/ejemplo-2-gestion-dinamica-de-volumenes.md)
-    * [Ejemplo 3: Wordpress con almacenamiento persistente](kubernetes/8.-almacenamiento-en-kubernetes/ejemplo-3-wordpress-con-almacenamiento-persistente.md)
-  * [9. Otras cargas de trabajo](kubernetes/9.-otras-cargas-de-trabajo/README.md)
-    * [9.1 StatefulSets](kubernetes/9.-otras-cargas-de-trabajo/9.1-statefulsets.md)
-    * [Ejemplo: despliegue de un cluster con MySQL](kubernetes/9.-otras-cargas-de-trabajo/ejemplo-despliegue-de-un-cluster-con-mysql.md)
-    * [9.2 DaemonSets](kubernetes/9.-otras-cargas-de-trabajo/9.2-daemonsets.md)
-    * [9.3 Jobs y Cronjobs](kubernetes/9.-otras-cargas-de-trabajo/9.3-jobs-y-cronjobs.md)
-  * [10. Instalación de aplicaciones en Kubernetes con Helm](kubernetes/10.-instalacion-de-aplicaciones-en-kubernetes-con-helm/README.md)
-    * [10.1 Instalación de Helm](kubernetes/10.-instalacion-de-aplicaciones-en-kubernetes-con-helm/10.1-instalacion-de-helm.md)
-    * [10.2 Gestión de charts y despliegue de aplicaciones](kubernetes/10.-instalacion-de-aplicaciones-en-kubernetes-con-helm/10.2-gestion-de-charts-y-despliegue-de-aplicaciones.md)
-* [DevOps](devops.md)
-* [Consejos búsqueda de trabajo](consejos-busqueda-de-trabajo.md)
+  * [[1.0-introduccion-a-kubernetes]]
+	  * [[1.1-implantacion-de-aplicaciones-web-en-contenedores]]
+	  * [[1.2-docker]]
+	  * [[1.3-orquestadores-de-contenedores]]
+	  * [[1.4-el-proyecto-kubernetes]]
+	  * [[1.5-arquitectura-basica-de-kubernetes]]
+  * [[2.0-instalacion-de-kubernetes]]
+	  * [[2.1-alternativas-para-instalacion-simple-de-k8s]]
+	  * [[2.2-introduccion-a-la-instalacion-de-minikube]]
+	  * [[2.3-instalacion-de-minikube-en-linux-con-kvm-virtualbox]]
+	  * [[2.4-instalacion-de-minikube-en-windows-+-virtualbox]]
+	  * [[2.5-instalacion-y-configuracion-de-kubectl-en-linux]]
+	  * [[2.6-instalacion-y-configuracion-de-kubectl-en-windows]]
+	  * [[2.7-despliegues-de-aplicaciones-en-kubernetes]]  
+  * [[3.0-contenedores-en-kubernetes]]
+	  * [[3.1-describiendo-un-pod]]
+	  * [[3.2-gestionando-los-pods]]
+  * [[4.0-tolerancia-y-escalabilidad]]
+	  * [[4.1-describiendo-un-replicaset]]
+	  * [[4.2-gestionando-los-replicaset]]
+  * [[5.0-deployments]]
+	  * [[5.1-describiendo-un-deployment]]
+	  * [[5.2-gestion-basica-de-un-deployment]]
+	  * [[5.3-actualizacion-y-desactualizacion-de-un-deployment]]
+  * [[6.0-acceso-a-las-aplicaciones]]
+	  * [[6.1-describiendo-services]]
+	  * [[6.2-gestionando-los-services]]
+	  * [[6.3-servicio-dns-en-kubernetes]]
+	  * [[6.4-ingress-controller]]
+	  * [[6.5-ejemplo-completo-aplicacion-de-temperaturas]]
+  * [[7.0-despliegue-parametrizados]]
+	  * [[7.1-variables-de-entorno]]
+	  * [[7.2-configmaps]]
+	  * [[7.3-secrets]]
+	  * [[7.4-ejemplo-completo-despliegue-y-acceso-a-wordpress-+-mariadb]]
+  * [[8.0-almacenamiento-en-kubernetes]]
+	  * [[8.1-volumenes-en-kubernetes]]
+	  * [[8.2-aprovisionamiento-de-volumenes]]
+	  * [[8.3-solicitud-de-volumenes]]
+	  * [[8.4-uso-de-volumenes]]
+	  * [[ejemplo-1-gestion-estatica-de-volumenes]]
+	  * [[ejemplo-2-gestion-dinamica-de-volumenes]]
+	  * [[ejemplo-3-wordpress-con-almacenamiento-persistente]]
+  * [[9.0-otras-cargas-de-trabajo]]
+	  * [[9.1-statefulsets]]
+	  * [[9.2-daemonsets]]
+	  * [[9.3-jobs-y-cronjobs]]
+	  * [[ejemplo-despliegue-de-un-cluster-con-mysql]]
+  * [[10.0-instalacion-de-aplicaciones-en-kubernetes-con-helm]]
+	  * [[10.1-instalacion-de-helm]]
+	  * [[10.2-gestion-de-charts-y-despliegue-de-aplicaciones]]
+  * [[consejos-busqueda-de-trabajo]]
+  * [[devops]]
