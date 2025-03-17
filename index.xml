@@ -6,65 +6,65 @@
       <description>Last 10 notes on 🪴 Quartz 4.0</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>ra-criterios-contenidos-practicas</title>
+    <link>https://quartz.jzhao.xyz/Redes-locales/ra-criterios-contenidos-practicas</link>
+    <guid>https://quartz.jzhao.xyz/Redes-locales/ra-criterios-contenidos-practicas</guid>
+    <description>Introducción a Linux: tryhackme.com/r/room/linuxfundamentalspart1 Intro a redes: tryhackme.com/r/room/whatisnetworking.</description>
+    <pubDate>Mon, 17 Mar 2025 12:28:12 GMT</pubDate>
+  </item><item>
+    <title>Seguridad informática</title>
+    <link>https://quartz.jzhao.xyz/Seguridad-inform%C3%A1tica/</link>
+    <guid>https://quartz.jzhao.xyz/Seguridad-inform%C3%A1tica/</guid>
+    <description>En primer lugar vamos a analizar los resultados de aprendizaje, criterios de evaluación, contenidos y posibles enlaces a las prácticas a realizar:.</description>
+    <pubDate>Mon, 17 Mar 2025 12:28:12 GMT</pubDate>
+  </item><item>
+    <title>ra-criterios-contenidos-practicas</title>
+    <link>https://quartz.jzhao.xyz/Seguridad-inform%C3%A1tica/ra-criterios-contenidos-practicas</link>
+    <guid>https://quartz.jzhao.xyz/Seguridad-inform%C3%A1tica/ra-criterios-contenidos-practicas</guid>
+    <description>RA - Criterios - Contenidos - Prácticas RA 1. Aplica medidas de seguridad pasiva en sistemas informáticos describiendo características de entornos y relacionándolas con sus necesidades.</description>
+    <pubDate>Mon, 17 Mar 2025 12:28:12 GMT</pubDate>
+  </item><item>
     <title>Servicios en red</title>
     <link>https://quartz.jzhao.xyz/Servicios-en-red/</link>
     <guid>https://quartz.jzhao.xyz/Servicios-en-red/</guid>
     <description>En primer lugar vamos a analizar los resultados de aprendizaje, criterios de evaluación, contenidos y posibles enlaces a las prácticas a realizar:.</description>
-    <pubDate>Mon, 17 Mar 2025 12:09:38 GMT</pubDate>
+    <pubDate>Mon, 17 Mar 2025 12:28:12 GMT</pubDate>
   </item><item>
     <title>ra-criterios-contenidos-practicas</title>
     <link>https://quartz.jzhao.xyz/Servicios-en-red/ra-criterios-contenidos-practicas</link>
     <guid>https://quartz.jzhao.xyz/Servicios-en-red/ra-criterios-contenidos-practicas</guid>
     <description>Introducción a Linux: tryhackme.com/r/room/linuxfundamentalspart1 Intro a redes: tryhackme.com/r/room/whatisnetworking Continuamos con redes: tryhackme.com/r/room/networkservices ...</description>
-    <pubDate>Mon, 17 Mar 2025 12:09:38 GMT</pubDate>
+    <pubDate>Mon, 17 Mar 2025 12:28:12 GMT</pubDate>
   </item><item>
     <title>Rafael del Río - Mi web de apuntes</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description>Documentación actual del repositorio Documentación sobre hacking ético Documentación sobre gestión de incidentes de ciberseguridad Documentación sobre normativa de ciberseguridad ...</description>
-    <pubDate>Mon, 17 Mar 2025 12:09:38 GMT</pubDate>
-  </item><item>
-    <title>john-the-ripper</title>
-    <link>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/cracking-hashes/john-the-ripper</link>
-    <guid>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/cracking-hashes/john-the-ripper</guid>
-    <description>John the ripper es una herramienta para crackear hashes.</description>
-    <pubDate>Mon, 17 Mar 2025 12:09:38 GMT</pubDate>
-  </item><item>
-    <title>wordlistctl</title>
-    <link>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/cracking-hashes/wordlistctl</link>
-    <guid>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/cracking-hashes/wordlistctl</guid>
-    <description>Herramienta para gestionar wordlists.</description>
-    <pubDate>Mon, 17 Mar 2025 12:09:38 GMT</pubDate>
-  </item><item>
-    <title>hydra</title>
-    <link>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/hacking-web/hydra</link>
-    <guid>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/hacking-web/hydra</guid>
-    <description>Hydra Ejemplo de ruptura de login web hydra -l molly -P /usr/share/wordlists/rockyou.txt 10.10.57.109 http-post-form &quot;/login:username=^USER^&amp;password=^PASS^:F=incorrect&quot; ...</description>
-    <pubDate>Mon, 17 Mar 2025 12:09:38 GMT</pubDate>
-  </item><item>
-    <title>Hacking ético</title>
-    <link>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/</link>
-    <guid>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/</guid>
-    <description>En primer lugar vamos a analizar los resultados de aprendizaje, criterios de evaluación, contenidos y posibles enlaces a las prácticas a realizar: RA - criterios - contenidos - prácticas ...</description>
-    <pubDate>Mon, 17 Mar 2025 12:09:38 GMT</pubDate>
+    <pubDate>Mon, 17 Mar 2025 12:28:12 GMT</pubDate>
   </item><item>
     <title>README</title>
-    <link>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/post-explotacion/README</link>
-    <guid>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/post-explotacion/README</guid>
-    <description>Post-explotación Dentro de la postexplotación encontramos los típicos comandos de linux, como: pwd, whoami, id, sudo -l. Con estos comandos ya nos haremos una idea de en qué máquina estamos, con qué usuario, en qué carpeta, y si ese usuario tiene permisos de sudo.</description>
-    <pubDate>Mon, 17 Mar 2025 12:09:38 GMT</pubDate>
+    <link>https://quartz.jzhao.xyz/kubernetes/1.-introduccion-a-kubernetes/README</link>
+    <guid>https://quartz.jzhao.xyz/kubernetes/1.-introduccion-a-kubernetes/README</guid>
+    <description></description>
+    <pubDate>Mon, 17 Mar 2025 12:28:12 GMT</pubDate>
   </item><item>
-    <title>msfvenom</title>
-    <link>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/post-explotacion/msfvenom</link>
-    <guid>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/post-explotacion/msfvenom</guid>
-    <description>msfvenom MSFVenom es una herramienta, dentro del framework de Metasploit, que nos permite generar archivos con payloads dentro. Es decir, en lugar de incluir el payload en un exploit, como haríamos con la herramienta msfconsola, el objetivo aquí es crear un “malware” que al ejecutarlo lance el payload.</description>
-    <pubDate>Mon, 17 Mar 2025 12:09:38 GMT</pubDate>
+    <title>README</title>
+    <link>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/cracking-hashes/README</link>
+    <guid>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/cracking-hashes/README</guid>
+    <description>En este apartado se van a describir métodos y técnicas para crackear hashes.</description>
+    <pubDate>Mon, 17 Mar 2025 12:28:12 GMT</pubDate>
   </item><item>
-    <title>ra-criterios-contenidos-practicas</title>
-    <link>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/ra-criterios-contenidos-practicas</link>
-    <guid>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/ra-criterios-contenidos-practicas</guid>
-    <description>RA - Criterios - Contenidos - Prácticas RA 1. Determina herramientas de monitorización para detectar vulnerabilidades aplicando técnicas de hacking ético.</description>
-    <pubDate>Mon, 17 Mar 2025 12:09:38 GMT</pubDate>
+    <title>cewl</title>
+    <link>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/cracking-hashes/cewl</link>
+    <guid>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/cracking-hashes/cewl</guid>
+    <description>Generador de wordlist a partir de web scrapping.</description>
+    <pubDate>Mon, 17 Mar 2025 12:28:12 GMT</pubDate>
+  </item><item>
+    <title>haiti</title>
+    <link>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/cracking-hashes/haiti</link>
+    <guid>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/cracking-hashes/haiti</guid>
+    <description>Identificación de hashes.</description>
+    <pubDate>Mon, 17 Mar 2025 12:28:12 GMT</pubDate>
   </item>
     </channel>
   </rss>
