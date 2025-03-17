@@ -6,65 +6,65 @@
       <description>Last 10 notes on 🪴 Quartz 4.0</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Servicios en red</title>
+    <link>https://quartz.jzhao.xyz/Servicios-en-red/</link>
+    <guid>https://quartz.jzhao.xyz/Servicios-en-red/</guid>
+    <description>En primer lugar vamos a analizar los resultados de aprendizaje, criterios de evaluación, contenidos y posibles enlaces a las prácticas a realizar:.</description>
+    <pubDate>Mon, 17 Mar 2025 12:09:38 GMT</pubDate>
+  </item><item>
+    <title>ra-criterios-contenidos-practicas</title>
+    <link>https://quartz.jzhao.xyz/Servicios-en-red/ra-criterios-contenidos-practicas</link>
+    <guid>https://quartz.jzhao.xyz/Servicios-en-red/ra-criterios-contenidos-practicas</guid>
+    <description>Introducción a Linux: tryhackme.com/r/room/linuxfundamentalspart1 Intro a redes: tryhackme.com/r/room/whatisnetworking Continuamos con redes: tryhackme.com/r/room/networkservices ...</description>
+    <pubDate>Mon, 17 Mar 2025 12:09:38 GMT</pubDate>
+  </item><item>
+    <title>Rafael del Río - Mi web de apuntes</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Documentación actual del repositorio Documentación sobre hacking ético Documentación sobre gestión de incidentes de ciberseguridad Documentación sobre normativa de ciberseguridad ...</description>
+    <pubDate>Mon, 17 Mar 2025 12:09:38 GMT</pubDate>
+  </item><item>
+    <title>john-the-ripper</title>
+    <link>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/cracking-hashes/john-the-ripper</link>
+    <guid>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/cracking-hashes/john-the-ripper</guid>
+    <description>John the ripper es una herramienta para crackear hashes.</description>
+    <pubDate>Mon, 17 Mar 2025 12:09:38 GMT</pubDate>
+  </item><item>
+    <title>wordlistctl</title>
+    <link>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/cracking-hashes/wordlistctl</link>
+    <guid>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/cracking-hashes/wordlistctl</guid>
+    <description>Herramienta para gestionar wordlists.</description>
+    <pubDate>Mon, 17 Mar 2025 12:09:38 GMT</pubDate>
+  </item><item>
+    <title>hydra</title>
+    <link>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/hacking-web/hydra</link>
+    <guid>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/hacking-web/hydra</guid>
+    <description>Hydra Ejemplo de ruptura de login web hydra -l molly -P /usr/share/wordlists/rockyou.txt 10.10.57.109 http-post-form &quot;/login:username=^USER^&amp;password=^PASS^:F=incorrect&quot; ...</description>
+    <pubDate>Mon, 17 Mar 2025 12:09:38 GMT</pubDate>
+  </item><item>
+    <title>Hacking ético</title>
+    <link>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/</link>
+    <guid>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/</guid>
+    <description>En primer lugar vamos a analizar los resultados de aprendizaje, criterios de evaluación, contenidos y posibles enlaces a las prácticas a realizar: RA - criterios - contenidos - prácticas ...</description>
+    <pubDate>Mon, 17 Mar 2025 12:09:38 GMT</pubDate>
+  </item><item>
+    <title>README</title>
+    <link>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/post-explotacion/README</link>
+    <guid>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/post-explotacion/README</guid>
+    <description>Post-explotación Dentro de la postexplotación encontramos los típicos comandos de linux, como: pwd, whoami, id, sudo -l. Con estos comandos ya nos haremos una idea de en qué máquina estamos, con qué usuario, en qué carpeta, y si ese usuario tiene permisos de sudo.</description>
+    <pubDate>Mon, 17 Mar 2025 12:09:38 GMT</pubDate>
+  </item><item>
+    <title>msfvenom</title>
+    <link>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/post-explotacion/msfvenom</link>
+    <guid>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/post-explotacion/msfvenom</guid>
+    <description>msfvenom MSFVenom es una herramienta, dentro del framework de Metasploit, que nos permite generar archivos con payloads dentro. Es decir, en lugar de incluir el payload en un exploit, como haríamos con la herramienta msfconsola, el objetivo aquí es crear un “malware” que al ejecutarlo lance el payload.</description>
+    <pubDate>Mon, 17 Mar 2025 12:09:38 GMT</pubDate>
+  </item><item>
     <title>ra-criterios-contenidos-practicas</title>
     <link>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/ra-criterios-contenidos-practicas</link>
     <guid>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/ra-criterios-contenidos-practicas</guid>
     <description>RA - Criterios - Contenidos - Prácticas RA 1. Determina herramientas de monitorización para detectar vulnerabilidades aplicando técnicas de hacking ético.</description>
-    <pubDate>Mon, 17 Mar 2025 12:05:27 GMT</pubDate>
-  </item><item>
-    <title>webs-para-aprender-mas</title>
-    <link>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/webs-para-aprender-mas</link>
-    <guid>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/webs-para-aprender-mas</guid>
-    <description>Aquí pondré webs donde haya información recopilada.</description>
-    <pubDate>Mon, 17 Mar 2025 12:05:27 GMT</pubDate>
-  </item><item>
-    <title>README</title>
-    <link>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/deteccion/README</link>
-    <guid>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/deteccion/README</guid>
-    <description>Detección.</description>
-    <pubDate>Mon, 17 Mar 2025 12:05:27 GMT</pubDate>
-  </item><item>
-    <title>suricata</title>
-    <link>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/deteccion/suricata</link>
-    <guid>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/deteccion/suricata</guid>
-    <description>Suricata Instalación de software previo apt update apt install software-properties-common iproute-2 nano curl -y apt install suricata -y Ver la interfaz de red a usar y anotarla: ...</description>
-    <pubDate>Mon, 17 Mar 2025 12:05:27 GMT</pubDate>
-  </item><item>
-    <title>Incidentes de ciberseguridad</title>
-    <link>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/</link>
-    <guid>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/</guid>
-    <description>Incidentes de ciberseguridad es un módulo del curso de especialización en ciberseguridad en entornos de las tecnologías de la información (CETI). En esta documentación pretendo realizar un análisis y resumen de los contenidos que se pueden impartir en este curso.</description>
-    <pubDate>Mon, 17 Mar 2025 12:05:27 GMT</pubDate>
-  </item><item>
-    <title>ra-criterios-contenidos-practicas</title>
-    <link>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/ra-criterios-contenidos-practicas</link>
-    <guid>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/ra-criterios-contenidos-practicas</guid>
-    <description>RA - Criterios - Contenidos - Prácticas RA1. Desarrolla planes de prevención y concienciación en ciberseguridad, estableciendo normas y medidas de protección.</description>
-    <pubDate>Mon, 17 Mar 2025 12:05:27 GMT</pubDate>
-  </item><item>
-    <title>respuesta-a-incidentes</title>
-    <link>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/respuesta-a-incidentes</link>
-    <guid>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/respuesta-a-incidentes</guid>
-    <description>Respuesta a incidentes Intro: tryhackme.com/room/introtoirandim.</description>
-    <pubDate>Mon, 17 Mar 2025 12:05:27 GMT</pubDate>
-  </item><item>
-    <title>Normativa de ciberseguridad</title>
-    <link>https://quartz.jzhao.xyz/Normativa-de-ciberseguridad/</link>
-    <guid>https://quartz.jzhao.xyz/Normativa-de-ciberseguridad/</guid>
-    <description>En primer lugar vamos a analizar los resultados de aprendizaje, criterios de evaluación, contenidos y posibles enlaces a las prácticas a realizar:.</description>
-    <pubDate>Mon, 17 Mar 2025 12:05:27 GMT</pubDate>
-  </item><item>
-    <title>ra-criterios-contenidos-practicas</title>
-    <link>https://quartz.jzhao.xyz/Normativa-de-ciberseguridad/ra-criterios-contenidos-practicas</link>
-    <guid>https://quartz.jzhao.xyz/Normativa-de-ciberseguridad/ra-criterios-contenidos-practicas</guid>
-    <description>RA - Criterios - Contenidos - Prácticas 1. Identifica los puntos principales de aplicación para asegurar el cumplimiento normativo reconociendo funciones y responsabilidades.</description>
-    <pubDate>Mon, 17 Mar 2025 12:05:27 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/Puesta-en-produccion-segura/</link>
-    <guid>https://quartz.jzhao.xyz/Puesta-en-produccion-segura/</guid>
-    <description>Texto.</description>
-    <pubDate>Mon, 17 Mar 2025 12:05:27 GMT</pubDate>
+    <pubDate>Mon, 17 Mar 2025 12:09:38 GMT</pubDate>
   </item>
     </channel>
   </rss>
