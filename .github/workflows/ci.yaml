@@ -30,11 +30,6 @@ jobs:
           npx quartz build
         working-directory: ./source
 
-      - name: Copy raw HTML folder
-        run: |
-          cp -r raw_html/* public/
-        working-directory: ./source
-
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
