@@ -1,5 +1,5 @@
 ---
-title: Rafael del Río - Mi web de apuntes
+title: Mi web de apuntes
 ---
 ## Documentación actual del repositorio
 - [[Hacking-ético/index|Documentación sobre hacking ético]] 
@@ -15,11 +15,13 @@ title: Rafael del Río - Mi web de apuntes
 
 En primer lugar, para facilitar la comprensión, directamente enlazo a la web del proyecto, donde se puede usar: [https://rafaeldelrio.github.io/](https://rafaeldelrio.github.io)
 
-Este proyecto surge de la necesidad de documentar de una forma cómoda y útil todo el conocimiento que se va generando a medida que se realizan distintos retos de ciberseguridad, también conocidos como captura la bandera o CTF.
+Este proyecto surge de la necesidad de documentar de una forma cómoda y útil todo el conocimiento que se ha ido generando en los distintos módulos profesionales que he impartido.
 
 ## A quién va dirigido
 
-Este proyecto ha sido creado con el propósito, en primer lugar, de ser útil para mí mismo. Es decir, que con el buscador avanzado de la web se pueda encontrar fácilmente información relevante, de forma que ayude en el proceso de solventar retos, especialmente en competiciones, donde el tiempo es primordial.
+Este proyecto ha sido creado con el propósito, en primer lugar, de ser útil para mí mismo. Es decir, que con el buscador avanzado de la web se pueda encontrar fácilmente información relevante, apuntes, ejemplos de uso...
+
+Además el proyecto va dirigido a cualquiera que tenga curiosidad sobre estos temas.
 
 ## Cómo puedo acceder al proyecto
 
@@ -29,7 +31,7 @@ El código fuente de todo lo documentado se encuentra en: [https://github.com/Ra
 
 ## Cómo puedo ayudar
 
-Es posible que te interese este proyecto y tengas bastante conocimiento sobre ciberseguridad que te gustaría compartir. En ese caso genera la documentación que creas que puede aportar y realizar un pull request.
+Es posible que te interese este proyecto y tengas bastante conocimiento sobre estos temas que te gustaría compartir. En ese caso genera la documentación que creas que puede aportar, siempre en formato markdown, y realiza un pull request.
 
 ## Me interesa, me gustaría crear algo parecido para mí
 
