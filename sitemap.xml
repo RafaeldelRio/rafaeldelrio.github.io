@@ -1,271 +1,271 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://quartz.jzhao.xyz/Aplicaciones-web/</loc>
-    <lastmod>2025-03-25T10:18:25.404Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.154Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Aplicaciones-web/ra-criterios-contenidos-practicas</loc>
-    <lastmod>2025-03-25T10:18:25.404Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.154Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/consejos-busqueda-de-trabajo</loc>
-    <lastmod>2025-03-25T10:18:25.417Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.165Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/devops</loc>
-    <lastmod>2025-03-25T10:18:25.417Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.165Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/</loc>
-    <lastmod>2025-03-25T10:18:25.417Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.165Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/1.-introduccion-a-kubernetes/1.0-introduccion-a-kubernetes</loc>
-    <lastmod>2025-03-25T10:18:25.417Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.166Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/1.-introduccion-a-kubernetes/1.1-implantacion-de-aplicaciones-web-en-contenedores</loc>
-    <lastmod>2025-03-25T10:18:25.417Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.166Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/1.-introduccion-a-kubernetes/1.2-docker</loc>
-    <lastmod>2025-03-25T10:18:25.417Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.166Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/1.-introduccion-a-kubernetes/1.3-orquestadores-de-contenedores</loc>
-    <lastmod>2025-03-25T10:18:25.417Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.166Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/1.-introduccion-a-kubernetes/1.4-el-proyecto-kubernetes</loc>
-    <lastmod>2025-03-25T10:18:25.417Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.166Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/1.-introduccion-a-kubernetes/1.5-arquitectura-basica-de-kubernetes</loc>
-    <lastmod>2025-03-25T10:18:25.417Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.166Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/10.-instalacion-de-aplicaciones-en-kubernetes-con-helm/10.0-instalacion-de-aplicaciones-en-kubernetes-con-helm</loc>
-    <lastmod>2025-03-25T10:18:25.417Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.166Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/10.-instalacion-de-aplicaciones-en-kubernetes-con-helm/10.1-instalacion-de-helm</loc>
-    <lastmod>2025-03-25T10:18:25.417Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.166Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/10.-instalacion-de-aplicaciones-en-kubernetes-con-helm/10.2-gestion-de-charts-y-despliegue-de-aplicaciones</loc>
-    <lastmod>2025-03-25T10:18:25.417Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.166Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/2.-instalacion-de-kubernetes/2.0-instalacion-de-kubernetes</loc>
-    <lastmod>2025-03-25T10:18:25.417Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.166Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/2.-instalacion-de-kubernetes/2.1-alternativas-para-instalacion-simple-de-k8s</loc>
-    <lastmod>2025-03-25T10:18:25.418Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.166Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/2.-instalacion-de-kubernetes/2.2-introduccion-a-la-instalacion-de-minikube</loc>
-    <lastmod>2025-03-25T10:18:25.418Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.166Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/2.-instalacion-de-kubernetes/2.3-instalacion-de-minikube-en-linux-con-kvm-virtualbox</loc>
-    <lastmod>2025-03-25T10:18:25.418Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.166Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/2.-instalacion-de-kubernetes/2.4-instalacion-de-minikube-en-windows-+-virtualbox</loc>
-    <lastmod>2025-03-25T10:18:25.418Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.166Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/2.-instalacion-de-kubernetes/2.5-instalacion-y-configuracion-de-kubectl-en-linux</loc>
-    <lastmod>2025-03-25T10:18:25.418Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.166Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/2.-instalacion-de-kubernetes/2.6-instalacion-y-configuracion-de-kubectl-en-windows</loc>
-    <lastmod>2025-03-25T10:18:25.418Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.166Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/2.-instalacion-de-kubernetes/2.7-despliegues-de-aplicaciones-en-kubernetes</loc>
-    <lastmod>2025-03-25T10:18:25.418Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.166Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/3.-contenedores-en-kubernetes-pods/3.0-contenedores-en-kubernetes</loc>
-    <lastmod>2025-03-25T10:18:25.418Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.167Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/3.-contenedores-en-kubernetes-pods/3.1-describiendo-un-pod</loc>
-    <lastmod>2025-03-25T10:18:25.418Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.167Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/3.-contenedores-en-kubernetes-pods/3.2-gestionando-los-pods</loc>
-    <lastmod>2025-03-25T10:18:25.418Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.167Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/4.-tolerancia-y-escalabilidad-replicasets/4.0-tolerancia-y-escalabilidad</loc>
-    <lastmod>2025-03-25T10:18:25.418Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.167Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/4.-tolerancia-y-escalabilidad-replicasets/4.1-describiendo-un-replicaset</loc>
-    <lastmod>2025-03-25T10:18:25.418Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.167Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/4.-tolerancia-y-escalabilidad-replicasets/4.2-gestionando-los-replicaset</loc>
-    <lastmod>2025-03-25T10:18:25.418Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.167Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/5.-despliegues-deployments/5.0-deployments</loc>
-    <lastmod>2025-03-25T10:18:25.418Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.167Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/5.-despliegues-deployments/5.1-describiendo-un-deployment</loc>
-    <lastmod>2025-03-25T10:18:25.418Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.167Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/5.-despliegues-deployments/5.2-gestion-basica-de-un-deployment</loc>
-    <lastmod>2025-03-25T10:18:25.418Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.167Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/5.-despliegues-deployments/5.3-actualizacion-y-desactualizacion-de-un-deployment</loc>
-    <lastmod>2025-03-25T10:18:25.419Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.167Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/6.-acceso-a-las-aplicaciones-services/6.0-acceso-a-las-aplicaciones</loc>
-    <lastmod>2025-03-25T10:18:25.419Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.167Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/6.-acceso-a-las-aplicaciones-services/6.1-describiendo-services</loc>
-    <lastmod>2025-03-25T10:18:25.419Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.167Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/6.-acceso-a-las-aplicaciones-services/6.2-gestionando-los-services</loc>
-    <lastmod>2025-03-25T10:18:25.419Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.167Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/6.-acceso-a-las-aplicaciones-services/6.3-servicio-dns-en-kubernetes</loc>
-    <lastmod>2025-03-25T10:18:25.419Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.167Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/6.-acceso-a-las-aplicaciones-services/6.4-ingress-controller</loc>
-    <lastmod>2025-03-25T10:18:25.419Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.167Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/6.-acceso-a-las-aplicaciones-services/6.5-ejemplo-completo-aplicacion-de-temperaturas</loc>
-    <lastmod>2025-03-25T10:18:25.419Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.167Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/7.-despliegues-parametrizados/7.0-despliegue-parametrizados</loc>
-    <lastmod>2025-03-25T10:18:25.419Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.167Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/7.-despliegues-parametrizados/7.1-variables-de-entorno</loc>
-    <lastmod>2025-03-25T10:18:25.419Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.167Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/7.-despliegues-parametrizados/7.2-configmaps</loc>
-    <lastmod>2025-03-25T10:18:25.419Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.167Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/7.-despliegues-parametrizados/7.3-secrets</loc>
-    <lastmod>2025-03-25T10:18:25.419Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.167Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/7.-despliegues-parametrizados/7.4-ejemplo-completo-despliegue-y-acceso-a-wordpress-+-mariadb</loc>
-    <lastmod>2025-03-25T10:18:25.419Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.168Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/8.-almacenamiento-en-kubernetes/8.0-almacenamiento-en-kubernetes</loc>
-    <lastmod>2025-03-25T10:18:25.419Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.168Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/8.-almacenamiento-en-kubernetes/8.1-volumenes-en-kubernetes</loc>
-    <lastmod>2025-03-25T10:18:25.419Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.168Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/8.-almacenamiento-en-kubernetes/8.2-aprovisionamiento-de-volumenes</loc>
-    <lastmod>2025-03-25T10:18:25.419Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.168Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/8.-almacenamiento-en-kubernetes/8.3-solicitud-de-volumenes</loc>
-    <lastmod>2025-03-25T10:18:25.420Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.168Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/8.-almacenamiento-en-kubernetes/8.4-uso-de-volumenes</loc>
-    <lastmod>2025-03-25T10:18:25.420Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.168Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/8.-almacenamiento-en-kubernetes/ejemplo-1-gestion-estatica-de-volumenes</loc>
-    <lastmod>2025-03-25T10:18:25.420Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.168Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/8.-almacenamiento-en-kubernetes/ejemplo-2-gestion-dinamica-de-volumenes</loc>
-    <lastmod>2025-03-25T10:18:25.420Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.168Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/8.-almacenamiento-en-kubernetes/ejemplo-3-wordpress-con-almacenamiento-persistente</loc>
-    <lastmod>2025-03-25T10:18:25.420Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.168Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/9.-otras-cargas-de-trabajo/9.0-otras-cargas-de-trabajo</loc>
-    <lastmod>2025-03-25T10:18:25.420Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.168Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/9.-otras-cargas-de-trabajo/9.1-statefulsets</loc>
-    <lastmod>2025-03-25T10:18:25.420Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.168Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/9.-otras-cargas-de-trabajo/9.2-daemonsets</loc>
-    <lastmod>2025-03-25T10:18:25.420Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.168Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/9.-otras-cargas-de-trabajo/9.3-jobs-y-cronjobs</loc>
-    <lastmod>2025-03-25T10:18:25.420Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.168Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/9.-otras-cargas-de-trabajo/ejemplo-despliegue-de-un-cluster-con-mysql</loc>
-    <lastmod>2025-03-25T10:18:25.420Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.168Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/kubernetes/</loc>
-    <lastmod>2025-03-25T10:18:25.420Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.168Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Despliegue-de-aplicaciones-web/ra-criterios-contenidos-practicas</loc>
-    <lastmod>2025-03-25T10:18:25.420Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.168Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/RA-5/SQLMap</loc>
-    <lastmod>2025-03-25T10:18:25.421Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.169Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/analisis-de-archivos-hash</loc>
-    <lastmod>2025-03-25T10:18:25.421Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.169Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/analisis-de-logs</loc>
-    <lastmod>2025-03-25T10:18:25.421Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.169Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/cracking-hashes/README</loc>
-    <lastmod>2025-03-25T10:18:25.421Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.169Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/cracking-hashes/cewl</loc>
-    <lastmod>2025-03-25T10:18:25.421Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.169Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/cracking-hashes/haiti</loc>
-    <lastmod>2025-03-25T10:18:25.421Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.169Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/cracking-hashes/hashcat</loc>
-    <lastmod>2025-03-25T10:18:25.421Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.169Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/cracking-hashes/john-the-ripper</loc>
-    <lastmod>2025-03-25T10:18:25.421Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.169Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/cracking-hashes/wordlistctl</loc>
-    <lastmod>2025-03-25T10:18:25.421Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.169Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/hacking-web/hydra</loc>
-    <lastmod>2025-03-25T10:18:25.421Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.169Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/</loc>
-    <lastmod>2025-03-25T10:18:25.421Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.169Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/post-explotacion/README</loc>
-    <lastmod>2025-03-25T10:18:25.421Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.169Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/post-explotacion/msfvenom</loc>
-    <lastmod>2025-03-25T10:18:25.421Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.169Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/ra-criterios-contenidos-practicas</loc>
-    <lastmod>2025-03-25T10:18:25.421Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.169Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Hacking-%C3%A9tico/webs-para-aprender-mas</loc>
-    <lastmod>2025-03-25T10:18:25.421Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.169Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/RA-2/Herramientas-de-un-SOC</loc>
-    <lastmod>2025-03-25T10:18:25.421Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.169Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/deteccion/README</loc>
-    <lastmod>2025-03-25T10:18:25.423Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.171Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/deteccion/suricata</loc>
-    <lastmod>2025-03-25T10:18:25.423Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.171Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/</loc>
-    <lastmod>2025-03-25T10:18:25.423Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.171Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/ra-criterios-contenidos-practicas</loc>
-    <lastmod>2025-03-25T10:18:25.423Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.171Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/respuesta-a-incidentes</loc>
-    <lastmod>2025-03-25T10:18:25.423Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.171Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Normativa-de-ciberseguridad/</loc>
-    <lastmod>2025-03-25T10:18:25.423Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.171Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Normativa-de-ciberseguridad/ra-criterios-contenidos-practicas</loc>
-    <lastmod>2025-03-25T10:18:25.423Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.171Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Puesta-en-produccion-segura/</loc>
-    <lastmod>2025-03-25T10:18:25.423Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.171Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Puesta-en-produccion-segura/ra-criterios-contenidos-practicas</loc>
-    <lastmod>2025-03-25T10:18:25.423Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.171Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Redes-locales/</loc>
-    <lastmod>2025-03-25T10:18:25.424Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.171Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Redes-locales/ra-criterios-contenidos-practicas</loc>
-    <lastmod>2025-03-25T10:18:25.424Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.172Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Seguridad-inform%C3%A1tica/</loc>
-    <lastmod>2025-03-25T10:18:25.424Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.172Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Seguridad-inform%C3%A1tica/ra-criterios-contenidos-practicas</loc>
-    <lastmod>2025-03-25T10:18:25.424Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.172Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Servicios-en-red/</loc>
-    <lastmod>2025-03-25T10:18:25.424Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.172Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Servicios-en-red/ra-criterios-contenidos-practicas</loc>
-    <lastmod>2025-03-25T10:18:25.424Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.172Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/</loc>
-    <lastmod>2025-03-25T10:18:25.424Z</lastmod>
+    <lastmod>2025-03-25T10:32:40.172Z</lastmod>
   </url></urlset>
