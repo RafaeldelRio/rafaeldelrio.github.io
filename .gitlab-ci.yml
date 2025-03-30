@@ -1,0 +1,41 @@
+# .gitlab-ci.yml para desplegar en GitLab Pages
+
+stages:
+  - build
+  - deploy
+
+# Imagen base con Node.js para construir el proyecto
+image: node:20
+
+# Configuración de caché para módulos de npm
+cache:
+  paths:
+    - source/node_modules/
+
+# Trabajo de construcción
+build:
+  stage: build
+  script:
+    - cd source
+    - npm install
+    - chmod +x ./quartz/bootstrap-cli.mjs
+    - npx quartz build
+    - cp -r raw_html/* public/
+  artifacts:
+    paths:
+      - source/public
+    expire_in: 1 hour
+
+# Trabajo de despliegue en GitLab Pages
+pages:
+  stage: deploy
+  dependencies:
+    - build
+  script:
+    - mkdir -p public
+    - cp -r source/public/* public/
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
