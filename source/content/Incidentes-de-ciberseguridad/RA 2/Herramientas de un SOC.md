@@ -73,5 +73,22 @@ El siem es una herramienta de monitorización.
 - Whonix
 - Fedora Silverblue
 
+## Otros
+- IAM
+- NDR
+
+## Digital Forensics (DF)
+- Autopsy
+- Volatility
+- Reglas Yara
+- Reglas Sigma
+- Wireshark
+
+## Conceptos
+- Taxonomía de incidentes
+- TLP
+- Severity
+- Playbook
+
 
 ![[tools.png]]
