@@ -1,7 +1,7 @@
 ---
 title: Mi web de apuntes
 ---
-## Documentación actual del repositorio
+## Módulos profesionales
 - [[Hacking-ético/index|Documentación sobre hacking ético]] 
 - [[Incidentes-de-ciberseguridad/index|Documentación sobre gestión de incidentes de ciberseguridad]]
 - [[Normativa-de-ciberseguridad/index|Documentación sobre normativa de ciberseguridad]] 
@@ -13,9 +13,11 @@ title: Mi web de apuntes
 
 ## Qué es este proyecto
 
-En primer lugar, para facilitar la comprensión, directamente enlazo a la web del proyecto, donde se puede usar: [https://rafaeldelrio.github.io/](https://rafaeldelrio.github.io)
+Proyecto de documentación de módulos profesionales, así como la generación de ideas y la resolución de CTFs y prácticas.
 
-Este proyecto surge de la necesidad de documentar de una forma cómoda y útil todo el conocimiento que se ha ido generando en los distintos módulos profesionales que he impartido.
+Desplegado a través de Github pages en: https://rafaeldelrio.github.io
+Desplegado a través de Cloudflare pages en: https://web.cloudflare-nbkeq.workers.dev/
+Desplegado a través de Gitlab pages en: https://web-dcb01e.gitlab.io/
 
 ## A quién va dirigido
 
@@ -29,9 +31,6 @@ Como comentaba anteriormente, se puede acceder al proyecto directamente empleand
 
 El código fuente de todo lo documentado se encuentra en: [https://github.com/RafaeldelRio/rafaeldelrio.github.io](https://github.com/RafaeldelRio/rafaeldelrio.github.io)
 
-## Cómo puedo ayudar
-
-Es posible que te interese este proyecto y tengas bastante conocimiento sobre estos temas que te gustaría compartir. En ese caso genera la documentación que creas que puede aportar, siempre en formato markdown, y realiza un pull request.
 
 ## Me interesa, me gustaría crear algo parecido para mí
 
