@@ -6,65 +6,65 @@
       <description>Last 10 notes on 🪴 Rafael del Río</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>ra-criterios-contenidos-practicas</title>
-    <link>https://quartz.jzhao.xyz/Redes-locales/ra-criterios-contenidos-practicas</link>
-    <guid>https://quartz.jzhao.xyz/Redes-locales/ra-criterios-contenidos-practicas</guid>
-    <description>Introducción a Linux: tryhackme.com/r/room/linuxfundamentalspart1 Intro a redes: tryhackme.com/r/room/whatisnetworking.</description>
-    <pubDate>Tue, 25 Mar 2025 10:32:40 GMT</pubDate>
-  </item><item>
-    <title>Seguridad informática</title>
-    <link>https://quartz.jzhao.xyz/Seguridad-inform%C3%A1tica/</link>
-    <guid>https://quartz.jzhao.xyz/Seguridad-inform%C3%A1tica/</guid>
-    <description>En primer lugar vamos a analizar los resultados de aprendizaje, criterios de evaluación, contenidos y posibles enlaces a las prácticas a realizar:.</description>
-    <pubDate>Tue, 25 Mar 2025 10:32:40 GMT</pubDate>
-  </item><item>
-    <title>ra-criterios-contenidos-practicas</title>
-    <link>https://quartz.jzhao.xyz/Seguridad-inform%C3%A1tica/ra-criterios-contenidos-practicas</link>
-    <guid>https://quartz.jzhao.xyz/Seguridad-inform%C3%A1tica/ra-criterios-contenidos-practicas</guid>
-    <description>RA - Criterios - Contenidos - Prácticas RA 1. Aplica medidas de seguridad pasiva en sistemas informáticos describiendo características de entornos y relacionándolas con sus necesidades.</description>
-    <pubDate>Tue, 25 Mar 2025 10:32:40 GMT</pubDate>
-  </item><item>
     <title>Servicios en red</title>
     <link>https://quartz.jzhao.xyz/Servicios-en-red/</link>
     <guid>https://quartz.jzhao.xyz/Servicios-en-red/</guid>
     <description>En primer lugar vamos a analizar los resultados de aprendizaje, criterios de evaluación, contenidos y posibles enlaces a las prácticas a realizar:.</description>
-    <pubDate>Tue, 25 Mar 2025 10:32:40 GMT</pubDate>
+    <pubDate>Sun, 30 Mar 2025 10:35:39 GMT</pubDate>
   </item><item>
     <title>ra-criterios-contenidos-practicas</title>
     <link>https://quartz.jzhao.xyz/Servicios-en-red/ra-criterios-contenidos-practicas</link>
     <guid>https://quartz.jzhao.xyz/Servicios-en-red/ra-criterios-contenidos-practicas</guid>
     <description>Introducción a Linux: tryhackme.com/r/room/linuxfundamentalspart1 Intro a redes: tryhackme.com/r/room/whatisnetworking Continuamos con redes: tryhackme.com/r/room/networkservices ...</description>
-    <pubDate>Tue, 25 Mar 2025 10:32:40 GMT</pubDate>
+    <pubDate>Sun, 30 Mar 2025 10:35:39 GMT</pubDate>
   </item><item>
     <title>Mi web de apuntes</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description>Documentación actual del repositorio Documentación sobre hacking ético Documentación sobre gestión de incidentes de ciberseguridad Documentación sobre normativa de ciberseguridad ...</description>
-    <pubDate>Tue, 25 Mar 2025 10:32:40 GMT</pubDate>
+    <pubDate>Sun, 30 Mar 2025 10:35:39 GMT</pubDate>
   </item><item>
     <title>README</title>
     <link>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/deteccion/README</link>
     <guid>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/deteccion/README</guid>
     <description>Detección.</description>
-    <pubDate>Tue, 25 Mar 2025 10:32:40 GMT</pubDate>
+    <pubDate>Sun, 30 Mar 2025 10:35:39 GMT</pubDate>
   </item><item>
     <title>suricata</title>
     <link>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/deteccion/suricata</link>
     <guid>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/deteccion/suricata</guid>
     <description>Suricata Instalación de software previo apt update apt install software-properties-common iproute-2 nano curl -y apt install suricata -y Ver la interfaz de red a usar y anotarla: ...</description>
-    <pubDate>Tue, 25 Mar 2025 10:32:40 GMT</pubDate>
+    <pubDate>Sun, 30 Mar 2025 10:35:39 GMT</pubDate>
   </item><item>
     <title>Incidentes de ciberseguridad</title>
     <link>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/</link>
     <guid>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/</guid>
     <description>Incidentes de ciberseguridad es un módulo del curso de especialización en ciberseguridad en entornos de las tecnologías de la información (CETI). En esta documentación pretendo realizar un análisis y resumen de los contenidos que se pueden impartir en este curso.</description>
-    <pubDate>Tue, 25 Mar 2025 10:32:40 GMT</pubDate>
+    <pubDate>Sun, 30 Mar 2025 10:35:39 GMT</pubDate>
   </item><item>
     <title>ra-criterios-contenidos-practicas</title>
     <link>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/ra-criterios-contenidos-practicas</link>
     <guid>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/ra-criterios-contenidos-practicas</guid>
     <description>RA - Criterios - Contenidos - Prácticas RA1. Desarrolla planes de prevención y concienciación en ciberseguridad, estableciendo normas y medidas de protección.</description>
-    <pubDate>Tue, 25 Mar 2025 10:32:40 GMT</pubDate>
+    <pubDate>Sun, 30 Mar 2025 10:35:39 GMT</pubDate>
+  </item><item>
+    <title>respuesta-a-incidentes</title>
+    <link>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/respuesta-a-incidentes</link>
+    <guid>https://quartz.jzhao.xyz/Incidentes-de-ciberseguridad/respuesta-a-incidentes</guid>
+    <description>Respuesta a incidentes Intro: tryhackme.com/room/introtoirandim.</description>
+    <pubDate>Sun, 30 Mar 2025 10:35:39 GMT</pubDate>
+  </item><item>
+    <title>Normativa de ciberseguridad</title>
+    <link>https://quartz.jzhao.xyz/Normativa-de-ciberseguridad/</link>
+    <guid>https://quartz.jzhao.xyz/Normativa-de-ciberseguridad/</guid>
+    <description>En primer lugar vamos a analizar los resultados de aprendizaje, criterios de evaluación, contenidos y posibles enlaces a las prácticas a realizar:.</description>
+    <pubDate>Sun, 30 Mar 2025 10:35:39 GMT</pubDate>
+  </item><item>
+    <title>ra-criterios-contenidos-practicas</title>
+    <link>https://quartz.jzhao.xyz/Normativa-de-ciberseguridad/ra-criterios-contenidos-practicas</link>
+    <guid>https://quartz.jzhao.xyz/Normativa-de-ciberseguridad/ra-criterios-contenidos-practicas</guid>
+    <description>RA - Criterios - Contenidos - Prácticas 1. Identifica los puntos principales de aplicación para asegurar el cumplimiento normativo reconociendo funciones y responsabilidades.</description>
+    <pubDate>Sun, 30 Mar 2025 10:35:39 GMT</pubDate>
   </item>
     </channel>
   </rss>
