@@ -3,3 +3,4 @@
 	- HackTheBox
 - Web
 - https://overthewire.org/wargames/
+- https://ginandjuice.shop/

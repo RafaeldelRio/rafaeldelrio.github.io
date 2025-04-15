@@ -1,3 +1,0 @@
-- Herramientas
-	- Gophish
-	- Zphiser https://github.com/htr-tech/zphisher
