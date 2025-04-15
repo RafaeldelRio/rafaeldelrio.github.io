@@ -4,6 +4,18 @@ d) Se ha intercambiado información de incidentes, con proveedores y/o organismo
 * Contenido asociado: Intercambio de información del incidente con proveedores u organismos competentes.
 
 
-## Herramientas para i
+## Herramientas para intercambiar información de IOC
 - MISP
 - Cortex
+
+## CERT relevantes
+- INCIBE-CERT
+- CCN-CERT
+
+## Formato de intercambio de Cyberthreat intelligence (CTI)
+- STIX
+- TAXII
+
+## Herramientas de comunicación segura
+- PGP
+- Signal

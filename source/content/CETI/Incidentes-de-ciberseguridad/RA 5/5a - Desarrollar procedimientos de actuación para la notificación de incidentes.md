@@ -4,6 +4,11 @@ a) Se ha desarrollado un procedimiento de actuación detallado para la notificac
 
 * Contenido asociado: Desarrollar procedimientos de actuación para la notificación de incidentes.
 
+## Conceptos
+- Guías de notificación de la AEPD, INCIBE-CERT, CCN-CERT.
+- Plantillas de procedimientos de notificación interna/externa.
+- Diagramas de flujo con criterios y plazos.
+
 
 ## Material de apoyo:
 - [https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia\_nacional\_notificacion\_gestion\_ciberincidentes.pdf](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia\_nacional\_notificacion\_gestion\_ciberincidentes.pdf)
