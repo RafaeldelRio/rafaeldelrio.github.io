@@ -2,13 +2,13 @@
 title: Mi web de apuntes
 ---
 ## Módulos profesionales
-- [[Hacking-ético/index|Documentación sobre hacking ético]] 
-- [[Incidentes-de-ciberseguridad/index|Documentación sobre gestión de incidentes de ciberseguridad]]
-- [[Normativa-de-ciberseguridad/index|Documentación sobre normativa de ciberseguridad]] 
-- [[Seguridad-informática/index|Documentación sobre seguridad informática]]
-- [[Redes-locales/index|Documentación sobre redes locales]] 
-- [[Servicios-en-red/index|Documentación sobre servicios en red]] 
-- [[Despliegue-de-aplicaciones-web/index|Documentación sobre despliegue de aplicaciones web]]
+- [[CETI/Hacking-ético/index|Documentación sobre hacking ético]] 
+- [[CETI/Incidentes-de-ciberseguridad/index|Documentación sobre gestión de incidentes de ciberseguridad]]
+- [[CETI/Normativa-de-ciberseguridad/index|Documentación sobre normativa de ciberseguridad]] 
+- [[SMR/Seguridad-informática/index|Documentación sobre seguridad informática]]
+- [[SMR/Redes-locales/index|Documentación sobre redes locales]] 
+- [[SMR/Servicios-en-red/index|Documentación sobre servicios en red]] 
+- [[DAW/Despliegue-de-aplicaciones-web/index|Documentación sobre despliegue de aplicaciones web]]
 
 
 ## Qué es este proyecto

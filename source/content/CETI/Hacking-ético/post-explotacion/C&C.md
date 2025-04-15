@@ -1,0 +1,3 @@
+- https://github.com/its-a-feature/Mythic
+- https://github.com/BishopFox/sliver
+- CobaltStrike
