@@ -9,3 +9,5 @@ Incidentes de ciberseguridad es un módulo del curso de especialización en cibe
 Materiales en general:
 - https://github.com/cyb3rxp/awesome-soc
 - https://github.com/meirwah/awesome-incident-response
+- https://github.com/mikeroyal/Open-Source-Security-Guide
+- https://github.com/rshipp/awesome-malware-analysis

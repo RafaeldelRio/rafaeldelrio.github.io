@@ -11,7 +11,7 @@ El objetivo es llevar al alumnado desde cero (o casi cero) en programación hast
 * **Objetivo:** Dotar al alumnado de las herramientas básicas de programación necesarias para entender y escribir scripts simples.
 * **Conceptos:**
     * Introducción a Python: ¿Qué es? ¿Por qué Python para IA/Seguridad?
-    * Entorno de desarrollo: Instalación de Python, uso de un IDE (como VS Code con extensión Python) o Entornos Interactivos (Jupyter Notebooks / Google Colab - ¡muy recomendados para empezar!). Gestión básica de paquetes con `pip`. Entornos virtuales (`venv`).
+    * Entorno de desarrollo: Instalación de Python, uso de un IDE (como VS Code con extensión Python) o Entornos Interactivos (Jupyter Notebooks / Google Colab ). Gestión básica de paquetes con `pip`. Entornos virtuales (`venv`).
     * Sintaxis básica: Variables, tipos de datos (números, strings, booleanos, listas, tuplas, diccionarios, sets).
     * Operadores: Aritméticos, de comparación, lógicos.
     * Estructuras de control: Condicionales (`if`, `elif`, `else`), bucles (`for`, `while`).
