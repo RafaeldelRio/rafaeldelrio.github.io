@@ -1,19 +1,6 @@
----
-title: Mi web de apuntes
----
-## Módulos profesionales
-- [[CETI/Hacking-ético/index|Documentación sobre hacking ético]] 
-- [[CETI/Incidentes-de-ciberseguridad/index|Documentación sobre gestión de incidentes de ciberseguridad]]
-- [[CETI/Normativa-de-ciberseguridad/index|Documentación sobre normativa de ciberseguridad]] 
-- [[SMR/Seguridad-informática/index|Documentación sobre seguridad informática]]
-- [[SMR/Redes-locales/index|Documentación sobre redes locales]] 
-- [[SMR/Servicios-en-red/index|Documentación sobre servicios en red]] 
-- [[DAW/Despliegue-de-aplicaciones-web/index|Documentación sobre despliegue de aplicaciones web]]
-
-
 ## Qué es este proyecto
 
-Proyecto de documentación de módulos profesionales, así como la generación de ideas y la resolución de CTFs y prácticas.
+Esta página web nace con la idea de generar una documentación de módulos profesionales.
 
 Desplegado a través de Github pages en: https://rafaeldelrio.github.io
 Desplegado a través de Cloudflare pages en: https://web.cloudflare-nbkeq.workers.dev/
