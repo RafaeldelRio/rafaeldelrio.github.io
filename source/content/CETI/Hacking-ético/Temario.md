@@ -32,18 +32,18 @@ e) Se han identificado las fases de un ataque seguidas por un atacante.
 
 f) Se han analizado y definido los tipos vulnerabilidades.
 * Contenido asociado: Documentación de vulnerabilidades.
-* Enlace con el material para impartirlo: [[1f -]]
+* Enlace con el material para impartirlo: [[1f - Análisis de vulnerabilidades]]
 
 g) Se han analizado y definido los tipos de ataque.
 - Contenido asociado: ClearNet, Deep Web, Dark Web, Darknets. Conocimiento, diferencias y herramientas de acceso: Tor. ZeroNet, FreeNet.
-- Enlace con el material para impartirlo: [[1g -]]
+- Enlace con el material para impartirlo: [[1g - Análisis de tipos de ataques]]
 
 h) Se han determinado y caracterizado las diferentes vulnerabilidades existentes.
-- Enlace con el material para impartirlo: [[1h -]]
+- Enlace con el material para impartirlo: [[1h - Caracterización de vulnerabilidades]]
 
 i) Se han determinado las herramientas de monitorización disponibles en el mercado adecuadas en función del tipo de organización.
 * Contenido asociado: Clasificación de herramientas de seguridad y hacking.
-* Enlace con el material para impartirlo: [[1i -]]
+* Enlace con el material para impartirlo: [[1i - Herramientas de monitorización y hacking]]
 
 
 
@@ -54,26 +54,26 @@ Criterios de evaluación:
 
 a) Se han configurado los distintos modos de funcionamiento de las tarjetas de red inalámbricas.
 * Contenido asociado: Modo infraestructura, ad-hoc y monitor.
-* Enlace con el material para impartirlo: [[2a -]]
+* Enlace con el material para impartirlo: [[2a - Funcionamiento de las tarjetas de red inalámbricas]]
 
 b) Se han descrito las técnicas de encriptación de las redes inalámbricas y sus puntos vulnerables.
 - Contenido asociado: Comunicación inalámbrica.
-- Enlace con el material para impartirlo: [[2b - Comunicación inalámbrica]]
+- Enlace con el material para impartirlo: [[2b - Comunicación de redes inalámbricas]]
 
 c) Se han detectado redes inalámbricas y se ha capturado tráfico de red como paso previo a su ataque.
 * Contenido asociado: Análisis y recolección de datos en redes inalámbricas.
-* Enlace con el material para impartirlo: [[2c -]]
+* Enlace con el material para impartirlo: [[2c - Captura de tráfico de redes inalámbricas]]
 
 d) Se ha accedido a redes inalámbricas vulnerables.
 * Contenido asociado: Técnicas de ataques y exploración de redes inalámbricas.
-* Enlace con el material para impartirlo: [[2d -]]
+* Enlace con el material para impartirlo: [[2d - Ataques y exploración de redes inalámbricas]]
 
 e) Se han caracterizado otros sistemas de comunicación inalámbricos y sus vulnerabilidades.
 * Contenido asociado: Ataques a otros sistemas inalámbricos.
-* Enlace con el material para impartirlo: [[2e -]]
+* Enlace con el material para impartirlo: [[2e - Ataques a otros sistemas inalámbricos]]
 
 f) Se han utilizado técnicas de “Equipo Rojo y Azul”.
-- Enlace con el material para impartirlo: [[2f -]]
+- Enlace con el material para impartirlo: [[2f - Equipo rojo vs azul]]
 
 g) Se han realizado informes sobre las vulnerabilidades detectadas.
 * Contenido asociado: Realización de informes de auditoría y presentación de resultados.
