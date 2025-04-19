@@ -1,6 +1,6 @@
 ---
-title: Sistemas Microinformáticos y Redes
-description: Web que contiene apuntes, exámenes, prácticas y temario de SMR
+title: SMR
+description: Web que contiene apuntes, exámenes, prácticas y temario de Sistemas Microinformáticos y Redes
 tags:
   - SMR
   - Apuntes

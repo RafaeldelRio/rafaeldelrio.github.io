@@ -1,6 +1,6 @@
 ---
-title: Ciberseguridad en Entornos de las Tecnologías de la Información
-description: Web que contiene apuntes, exámenes, prácticas y temario de CETI
+title: CETI
+description: Web que contiene apuntes, exámenes, prácticas y temario de Ciberseguridad en Entornos de las Tecnologías de la Información
 tags:
   - CETI
   - Apuntes

@@ -1,6 +1,6 @@
 ---
-title: Desarrollo de Aplicaciones Web
-description: Web que contiene apuntes, exámenes, prácticas y temario de DAW
+title: DAW
+description: Web que contiene apuntes, exámenes, prácticas y temario de Desarrollo de Aplicaciones Web
 tags:
   - DAW
   - Apuntes
