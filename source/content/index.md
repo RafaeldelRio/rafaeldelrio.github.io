@@ -1,15 +1,15 @@
 ---
-title: Apuntes de SMR, DAW, CETI y otros
+title: Apuntes y temario de SMR, DAW, CETI y otros
 ---
 > [!warning]
 > Esto es un trabajo en curso. Aún en una fase alfa.
-# Apuntes de SMR, DAW, CETI y otros
+# Apuntes y temario de SMR, DAW, CETI y otros
 
 ## Enlaces directos
-- Ciberseguridad en Entornos de las Tecnologías de la Información: [[CETI/index|CETI]]
-- Desarrollo de Aplicaciones Web: [[DAW/index|DAW]]
-- Sistemas Microinformáticos y Redes: [[SMR/index|SMR]]
-- Normativa sobre FP Dual (Andalucía): [[FP Dual/index|FP dual]]
+- Apuntes y temario de Ciberseguridad en Entornos de las Tecnologías de la Información: [[CETI/index|CETI]]
+- Apuntes y temario de Desarrollo de Aplicaciones Web: [[DAW/index|DAW]]
+- Apuntes y temario de Sistemas Microinformáticos y Redes: [[SMR/index|SMR]]
+- Apuntes y temario de Normativa sobre FP Dual (Andalucía): [[FP Dual/index|FP dual]]
 
 
 ## Qué es este proyecto
