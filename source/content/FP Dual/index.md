@@ -1,3 +1,7 @@
+---
+title: FP Dual Andalucía
+---
+
 Recopilación de distintas normativas:
 - [[240626_Instrucciones_DGFP_Andalucia.pdf]]
 - [[241112_Guia_Organizacion_FFEOE.pdf]]

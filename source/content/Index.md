@@ -1,6 +1,20 @@
+---
+title: Apuntes de SMR, DAW, CETI y otros
+---
+> [!warning]
+> Esto es un trabajo en curso. Aún en una fase alfa.
+# Apuntes de SMR, DAW, CETI y otros
+
+## Enlaces directos
+- Ciberseguridad en Entornos de las Tecnologías de la Información: [[CETI/index|CETI]]
+- Desarrollo de Aplicaciones Web: [[DAW/index|DAW]]
+- Sistemas Microinformáticos y Redes: [[SMR/index|SMR]]
+- Normativa sobre FP Dual (Andalucía): [[FP Dual/index|FP dual]]
+
+
 ## Qué es este proyecto
 
-Esta página web nace con la idea de generar una documentación de módulos profesionales.
+Esta página web nace con la idea de generar una documentación de módulos profesionales de FP.
 
 Desplegado a través de Github pages en: https://rafaeldelrio.github.io
 Desplegado a través de Cloudflare pages en: https://web.cloudflare-nbkeq.workers.dev/
