@@ -1,6 +1,9 @@
 ---
 title: FP Dual Andalucía
 ---
+> [!warning]
+> Esto es un trabajo en curso. Aún en una fase alfa.
+
 
 Recopilación de distintas normativas:
 - [[240626_Instrucciones_DGFP_Andalucia.pdf]]
