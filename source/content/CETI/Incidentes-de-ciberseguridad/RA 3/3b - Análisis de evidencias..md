@@ -7,6 +7,7 @@ b) Se ha realizado un análisis de evidencias.
 ## Herramientas
 - **Comprobación web de IOCs**
 	- VirusTotal
+	- Metadefender: https://metadefender.com/
 	- URLScan
 	- Palo alto network scanner
 	- AnyRun

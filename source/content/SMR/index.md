@@ -4,9 +4,6 @@ description: Web que contiene apuntes, exámenes, prácticas y temario de Sistem
 tags:
   - SMR
   - Apuntes
-  - Exámenes
-  - Prácticas
-  - Temas
 ---
 > [!warning]
 > Esto es un trabajo en curso. Aún en una fase alfa.

@@ -1,23 +1,21 @@
 ---
 title: Hacking ético
 ---
+Hacking ético es un módulo del curso de especialización en ciberseguridad en entornos de las tecnologías de la información (CETI). En esta documentación pretendo realizar una sugerencia de contenidos que se pueden impartir en cada uno de los resultados de aprendizaje esperados.
 
-En primer lugar vamos a analizar los resultados de aprendizaje, criterios de evaluación, contenidos y posibles enlaces a las prácticas a realizar:
-[[CETI/Hacking-ético/ra-criterios-contenidos-practicas|RA - criterios - contenidos - prácticas]]
+Todo el temario analizado en el siguiente enlace:
+- [[CETI/Hacking-ético/Temario|Temario]]
+
+Webs para practicar pentesting:
+- Generales
+	- TryHackMe: https://tryhackme.com/
+	- HackTheBox: https://www.hackthebox.com/
+- Web
+	- https://overthewire.org/wargames/
+	- https://ginandjuice.shop/
 
 
-Otros artículos
-* [[CETI/Hacking-ético/cracking-hashes/README|Cracking hashes]]
-* [John the ripper](john-the-ripper.md)
-  * [Hashcat](hashcat.md)
-  * [Haiti](haiti.md)
-  * [wordlistctl](wordlistctl.md)
-  * [CEWL](cewl.md)
-* [Post-explotación](CETI/Hacking-ético/post-explotacion/README.md)
-  * [msfvenom](msfvenom.md)
-* [Análisis de logs](analisis-de-logs.md)
-* [Webs para aprender más](webs-para-aprender-mas.md)
-* [Análisis de archivos (hash)](analisis-de-archivos-hash.md)
-* [Hacking web](hacking-web/README.md)
-  * [Hydra](hydra.md)
-* [RA - Criterios - Contenidos - Prácticas](CETI/Hacking-ético/ra-criterios-contenidos-practicas.md)
+Materiales en general:
+- [https://inventory.raw.pm/overview.html](https://inventory.raw.pm/overview.html)
+- https://github.com/bst04/CyberSources
+- https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/blue-defense/event-detection#nsm-network-security-monitoring
