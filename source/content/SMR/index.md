@@ -1,5 +1,12 @@
 ---
 title: Sistemas Microinformáticos y Redes
+description: Web que contiene apuntes, exámenes, prácticas y temario de SMR
+tags:
+  - SMR
+  - Apuntes
+  - Exámenes
+  - Prácticas
+  - Temas
 ---
 > [!warning]
 > Esto es un trabajo en curso. Aún en una fase alfa.

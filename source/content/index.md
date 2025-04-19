@@ -1,5 +1,14 @@
 ---
 title: Apuntes y temario de SMR, DAW, CETI y otros
+description: Web que contiene apuntes, exámenes, prácticas y temario de SMR, DAW, CETI y otros
+tags:
+  - CETI
+  - DAW
+  - SMR
+  - Apuntes
+  - Temas
+  - Exámenes
+  - Prácticas
 ---
 > [!warning]
 > Esto es un trabajo en curso. Aún en una fase alfa.
@@ -15,10 +24,9 @@ title: Apuntes y temario de SMR, DAW, CETI y otros
 ## Qué es este proyecto
 
 Esta página web nace con la idea de generar una documentación de módulos profesionales de FP.
-
-Desplegado a través de Github pages en: https://rafaeldelrio.github.io
-Desplegado a través de Cloudflare pages en: https://web.cloudflare-nbkeq.workers.dev/
-Desplegado a través de Gitlab pages en: https://web-dcb01e.gitlab.io/
+- Desplegado a través de Github pages en: https://rafaeldelrio.github.io
+- Desplegado a través de Cloudflare pages en: https://web.cloudflare-nbkeq.workers.dev/
+- Desplegado a través de Gitlab pages en: https://web-dcb01e.gitlab.io/
 
 ## A quién va dirigido
 

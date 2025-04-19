@@ -1,5 +1,11 @@
 ---
 title: FP Dual Andalucía
+description: Web con la normativa de la FP Dual en Andalucía
+tags:
+  - FP
+  - Dual
+  - Normativa
+  - Andalucía
 ---
 > [!warning]
 > Esto es un trabajo en curso. Aún en una fase alfa.
