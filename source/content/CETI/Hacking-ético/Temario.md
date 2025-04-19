@@ -1,4 +1,10 @@
-# RA - Criterios - Contenidos - Prácticas
+---
+tags:
+  - Apuntes
+  - Temas
+  - Hacking
+---
+# Desglose del temario HE: RA - Criterios - Contenidos
 
 ## RA 1. Determina herramientas de monitorización para detectar vulnerabilidades aplicando técnicas de hacking ético.
 

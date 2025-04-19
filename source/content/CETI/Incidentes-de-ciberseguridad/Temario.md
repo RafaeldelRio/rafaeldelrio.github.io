@@ -4,7 +4,7 @@ tags:
   - Temas
   - Incidentes
 ---
-# Desglose del temario: RA - Criterios - Contenidos
+# Desglose del temario IC: RA - Criterios - Contenidos
 
 ## RA1. Desarrolla planes de prevención y concienciación en ciberseguridad, estableciendo normas y medidas de protección.
 
