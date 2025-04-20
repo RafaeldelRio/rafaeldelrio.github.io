@@ -31,4 +31,5 @@ Se puede seguir un tutorial paso a paso en la siguiente web:
 
 # Sobre mí
 
-El creador de esta idea es Rafael del Río, profesor de informática. Si tienes ideas, sugerencias o algún motivo por el que quieras contactarme, no lo dudes, y mándame un mensaje a través de Github.
+El impulsor de este proyecto es Rafael del Río, profesor de informática. Si tienes ideas, sugerencias o algún motivo por el que quieras contactarme, no lo dudes, y mándame un mensaje a través de Github.
+- https://github.com/RafaeldelRio
