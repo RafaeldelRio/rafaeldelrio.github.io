@@ -1,3 +1,7 @@
+---
+draft: "true"
+---
+
 Tecnologías de la Información y Comunicación I. 1.º Bachillerato
 - Hardware
 - Sistemas operativos
