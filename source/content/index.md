@@ -14,7 +14,7 @@ tags:
 > Esto es un trabajo en curso. Aún en una fase alfa.
 # Apuntes y temario de SMR, DAW, CETI y otros
 
-## Apuntes de CETI
+## Apuntes CETI
 - Apuntes y temario de Ciberseguridad en Entornos de las Tecnologías de la Información: [[CETI/index|CETI]]
 
 ## Apuntes DAW
