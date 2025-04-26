@@ -23,6 +23,7 @@
 * Imprime la lista modificada.
 *Concepto:* Listas (creación, acceso por índice, añadir elementos con `append()`).
 
+
 **Ejercicio 1.4 (Diccionarios):**
 * Crea un diccionario llamado `permisos_usuario` donde las claves sean nombres de usuario (strings) y los valores sean sus roles (strings). Ejemplo: `{"admin": "superuser", "invitado": "lectura", "auditor": "lectura_logs"}`.
 * Imprime el diccionario completo.
