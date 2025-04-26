@@ -4,7 +4,10 @@ a) Se han identificado las bases del cumplimiento normativo a tener en cuenta en
 
 	* **Conceptos**: Definición y objetivos del cumplimiento normativo, componentes clave de un programa de cumplimiento (compromiso de la dirección, evaluación de riesgos, políticas, formación, monitorización, reporting, enforcement).
 	- **Prácticas**: Analizar estudios de casos de fallos en el cumplimiento (ejemplo: caso [Wells Fargo](https://www.bbc.com/news/business-37359132)), identificar requisitos de cumplimiento para diferentes industrias (finanzas, salud, tecnología).
-	- **Herramientas**: Plataformas de gestión de cumplimiento como [MetricStream](https://www.metricstream.com/) o [IBM OpenPages](https://www.ibm.com/products/openpages-with-watson), recursos en línea como [SCCE](https://www.corporatecompliance.org/).
+		- **Herramientas**:
+		- Plataformas de gestión de cumplimiento como [MetricStream](https://www.metricstream.com/) o [IBM OpenPages](https://www.ibm.com/products/openpages-with-watson)
+		- recursos en línea como [SCCE](https://www.corporatecompliance.org/)
+		- https://www.open-scap.org/
 
 
 ## CE - 1b

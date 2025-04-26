@@ -10,9 +10,21 @@ Webs para practicar pentesting:
 - Generales
 	- TryHackMe: https://tryhackme.com/
 	- HackTheBox: https://www.hackthebox.com/
+	- Pwned Labs: https://pwnedlabs.io/
+	- https://ctftime.org/
 - Web
 	- https://overthewire.org/wargames/
 	- https://ginandjuice.shop/
+- Por retos
+	- Atenea (CCN-CERT)
+	- Academia hacker de Incibe
+- Certificaciones interesantes:
+	- eJPT
+	- OSCP
+	- No recomendada: CEH (aunque suele aparecer en infojobs)
+- Distribuciones
+	- Kali Linux (probar Kaboxer)
+	- ParrotOS
 
 
 Materiales en general:

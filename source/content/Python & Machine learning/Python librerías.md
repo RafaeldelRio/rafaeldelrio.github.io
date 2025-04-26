@@ -1,0 +1,43 @@
+- **Game Development**
+    - Pygame: Used for developing 2D games.
+    - Piglet: Used for developing cross-platform games.
+- **Machine Learning**
+    - TensorFlow: Used for building AI models, neural networks, and machine learning applications.
+    - PyTorch: Used for building AI models, neural networks, and machine learning applications.
+    - Scikit-learn: Used for building AI models, neural networks, and machine learning applications.
+    - PyBrain: Used for building AI models, neural networks, and machine learning applications.
+    - Theano: Used for building AI models, neural networks, and machine learning applications.
+- **GUI Development**
+    - Tkinter: Used for creating graphical user interfaces.
+    - PyQt: Used for creating graphical user interfaces.
+- **Computer Vision**
+    - OpenCV: Used for image and object recognition, facial recognition, and augmented reality.
+- **Data Science**
+    - NumPy: Used for numerical computing.
+    - Pandas: Used for data manipulation.
+    - SciPy: Used for scientific calculations.
+- **Web Development**
+    - Beautiful Soup: Used for web scraping.
+    - Mechanical Soup: Used for web scraping.
+    - Selenium: Used for web scraping.
+    - Scrapy: Used for web scraping.
+    - Django: Used for building websites and APIs.
+    - Flask: Used for building websites and APIs.
+    - Fast API: Used for building websites and APIs.
+- **Data Visualization**
+    - Matplotlib: Used for creating charts, graphs, and plots.
+    - Seaborn: Used for creating charts, graphs, and plots.
+    - Plotly: Used for creating charts, graphs, and plots.
+- **Database Management**
+    - SQLite: Used for creating and managing databases.
+    - SQLAlchemy: Used for creating and managing databases.
+- **Image Processing**
+    - Pillow: Used for image manipulation and editing.
+- **Natural Language Processing**
+    - NLTK: Used for processing and analyzing human language.
+    - SpaCy: Used for processing and analyzing human language.
+- **Other Utilities**
+    - SymPy: Used for symbolic math.
+    - Pickle: Used for object serialization.
+    - Turtle: Used for drawing.
+    - PyWin32: Used for interacting with the Windows OS.

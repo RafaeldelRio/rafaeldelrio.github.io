@@ -8,3 +8,7 @@ General
 Base de datos
 - https://aiven.io/
 - https://supabase.com/pricing
+- https://firebase.google.com
+
+Free tier
+- Oracle cloud

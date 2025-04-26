@@ -16,5 +16,6 @@ f) Se han utilizado técnicas de “Equipo Rojo y Azul”.
 - Cobalt Strike/Covenant para operaciones Red Team
 - Security Onion para defensa Blue Team
 - Plataformas de gamificación (HackTheBox, CyberDefenders)
+- https://docs.vectr.io/
 
 ## Evaluación

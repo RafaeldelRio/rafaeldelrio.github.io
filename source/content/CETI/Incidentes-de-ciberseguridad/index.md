@@ -7,6 +7,15 @@ Incidentes de ciberseguridad es un módulo del curso de especialización en cibe
 Todo el temario analizado en el siguiente enlace:
 - [[CETI/Incidentes-de-ciberseguridad/Temario]]
 
+Webs para practicar, en general:
+- Cyberdefenders
+- Lets defend
+- TryHackme
+- Hackthebox
+- Boss of the soc (splunk)
+- Atenea (CCN-CERT)
+- Retos de academia hacker de Incibe
+
 Materiales en general:
 - https://github.com/cyb3rxp/awesome-soc
 - https://github.com/meirwah/awesome-incident-response
