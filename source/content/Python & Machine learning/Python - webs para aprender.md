@@ -1,1 +1,2 @@
 - https://programming-23.mooc.fi/
+- https://www.w3schools.com/python/
