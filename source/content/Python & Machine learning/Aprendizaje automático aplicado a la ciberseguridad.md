@@ -19,7 +19,7 @@ El objetivo es llevar al alumnado desde cero (o casi cero) en programación hast
     * Manejo de errores básicos: Bloques `try...except`.
     * Entrada/Salida básica: Leer y escribir en archivos de texto (`.txt`, `.csv`).
 * **Ejercicios:** Para practicar estos conceptos, se debe emplear el archivo `ejercicios_modulo1.ipynb`.
-	* Enlace: https://raw.githubusercontent.com/RafaeldelRio/rafaeldelrio.github.io/refs/heads/main/source/content/Python%20%26%20Machine%20learning/ejercicios/ejercicios_modulo1.ipynb
+	* Enlace: [ejercicios1.ipynb](https://raw.githubusercontent.com/RafaeldelRio/rafaeldelrio.github.io/refs/heads/main/source/content/Python%20%26%20Machine%20learning/ejercicios/ejercicios_modulo1.ipynb)
 
 
 ### Módulo 2: Manipulación de Datos con Python
@@ -36,7 +36,14 @@ El objetivo es llevar al alumnado desde cero (o casi cero) en programación hast
         * Visualización básica de datos con Pandas (integrado con Matplotlib).
     * Introducción a **Matplotlib/Seaborn**: Creación de gráficos básicos (histogramas, scatter plots, box plots) para explorar los datos.
 * **Ejercicios:** Para practicar estos conceptos, se debe emplear el archivo `ejercicios_modulo2.ipynb`.
-	* Enlace: https://raw.githubusercontent.com/RafaeldelRio/rafaeldelrio.github.io/refs/heads/main/source/content/Python%20%26%20Machine%20learning/ejercicios/ejercicios_modulo2.ipynb
+	* Enlace: [ejercicios2.ipynb](https://raw.githubusercontent.com/RafaeldelRio/rafaeldelrio.github.io/refs/heads/main/source/content/Python%20%26%20Machine%20learning/ejercicios/ejercicios_modulo2.ipynb)
+	* Para practicar más con Numpy: [Extra_ejercicio_1_Numpy.ipynb](https://raw.githubusercontent.com/RafaeldelRio/rafaeldelrio.github.io/refs/heads/main/source/content/Python%20%26%20Machine%20learning/ejercicios/Extra_ejercicio_1_Numpy.ipynb)
+	* Para practicar más con Pandas: [Extra_ejercicio_2_pandas.ipynb](https://raw.githubusercontent.com/RafaeldelRio/rafaeldelrio.github.io/refs/heads/main/source/content/Python%20%26%20Machine%20learning/ejercicios/Extra_ejercicio_2_pandas.ipynb)
+	* Para practicar más con visualización: [Extra_ejercicio_3_visualizacion.ipynb](https://raw.githubusercontent.com/RafaeldelRio/rafaeldelrio.github.io/refs/heads/main/source/content/Python%20%26%20Machine%20learning/ejercicios/Extra_ejercicio_3_visualizacion.ipynb)
+	* Para practicar más con Sklearn - KNN: [Extra_ejercicio_4_sklearn_knn.ipynb](https://raw.githubusercontent.com/RafaeldelRio/rafaeldelrio.github.io/refs/heads/main/source/content/Python%20%26%20Machine%20learning/ejercicios/Extra_ejercicio_4_sklearn_knn.ipynb)
+	* Para practicar más con SKlearn - scaling: [Extra_ejercicio_5_sklearn_scaling.ipynb](https://raw.githubusercontent.com/RafaeldelRio/rafaeldelrio.github.io/refs/heads/main/source/content/Python%20%26%20Machine%20learning/ejercicios/Extra_ejercicio_5_sklearn_scaling.ipynb)
+	* Para practicar más con keras mnist: [Extra_ejercicio_6_Keras_MNIST.ipynb](https://raw.githubusercontent.com/RafaeldelRio/rafaeldelrio.github.io/refs/heads/main/source/content/Python%20%26%20Machine%20learning/ejercicios/Extra_ejercicio_6_Keras_MNIST.ipynb)
+	* Para practicar más con pytorch mnist: [Extra_ejercicio_7_PyTorch_MNIST.ipynb](https://raw.githubusercontent.com/RafaeldelRio/rafaeldelrio.github.io/refs/heads/main/source/content/Python%20%26%20Machine%20learning/ejercicios/Extra_ejercicio_7_PyTorch_MNIST.ipynb)
 
 ### Módulo 3: Fundamentos de Inteligencia Artificial y Machine Learning (Conceptual)
 
@@ -55,7 +62,7 @@ El objetivo es llevar al alumnado desde cero (o casi cero) en programación hast
         * Para Regresión: MSE, MAE (mencionar brevemente).
         * Para Clustering: Silhouette Score (mencionar brevemente).
 * **Ejercicios:** Para practicar estos conceptos, se debe emplear el archivo `ejercicios_modulo3.ipynb`.
-	* Enlace: https://raw.githubusercontent.com/RafaeldelRio/rafaeldelrio.github.io/refs/heads/main/source/content/Python%20%26%20Machine%20learning/ejercicios/ejercicios_modulo3.ipynb
+	* Enlace: [ejercicios3.ipynb](https://raw.githubusercontent.com/RafaeldelRio/rafaeldelrio.github.io/refs/heads/main/source/content/Python%20%26%20Machine%20learning/ejercicios/ejercicios_modulo3.ipynb)
 
 ### Módulo 4: Algoritmos de Machine Learning y Aplicaciones en Ciberseguridad (Práctico)
 
@@ -73,7 +80,7 @@ El objetivo es llevar al alumnado desde cero (o casi cero) en programación hast
         * ¿Qué es? ¿Por qué es crucial en seguridad?
         * Ejemplos conceptuales (sin entrar aún en el código complejo del libro): extraer longitud de URL, número de caracteres especiales (phishing); extraer información de cabeceras de ejecutables PE (malware); contar tipos de peticiones en logs web (ataques).
 * **Ejercicios:** Para practicar estos conceptos, se debe emplear el archivo `ejercicios_modulo4.ipynb`.
-	* Enlace: https://raw.githubusercontent.com/RafaeldelRio/rafaeldelrio.github.io/refs/heads/main/source/content/Python%20%26%20Machine%20learning/ejercicios/ejercicios_modulo4.ipynb
+	* Enlace: [ejercicios4.ipynb](https://raw.githubusercontent.com/RafaeldelRio/rafaeldelrio.github.io/refs/heads/main/source/content/Python%20%26%20Machine%20learning/ejercicios/ejercicios_modulo4.ipynb)
 
 ### Módulo 5: Implementación con Ejemplos del Libro/Repositorio Cylance
 
@@ -88,7 +95,7 @@ El objetivo es llevar al alumnado desde cero (o casi cero) en programación hast
         * Visualización de resultados (si el ejemplo la incluye).
     * **Adaptación y Experimentación:** Animar a los alumnos a hacer pequeñas modificaciones (cambiar parámetros, probar otro modelo simple) para ver cómo afecta al resultado.
 * **Ejercicios:** Para practicar estos conceptos, se debe emplear el archivo `ejercicios_modulo5.ipynb`.
-	* Enlace: https://raw.githubusercontent.com/RafaeldelRio/rafaeldelrio.github.io/refs/heads/main/source/content/Python%20%26%20Machine%20learning/ejercicios/ejercicios_modulo5.ipynb
+	* Enlace: [ejercicios5.ipynb](https://raw.githubusercontent.com/RafaeldelRio/rafaeldelrio.github.io/refs/heads/main/source/content/Python%20%26%20Machine%20learning/ejercicios/ejercicios_modulo5.ipynb)
 
 ### Módulo 6: Consideraciones Éticas y Próximos Pasos (Cierre)
 
@@ -100,7 +107,7 @@ El objetivo es llevar al alumnado desde cero (o casi cero) en programación hast
     * Limitaciones actuales de la IA en ciberseguridad.
     * Recursos para seguir aprendiendo.
 * **Ejercicios:** Para practicar estos conceptos, se debe emplear el archivo `ejercicios_modulo6.ipynb`.
-	* Enlace: https://raw.githubusercontent.com/RafaeldelRio/rafaeldelrio.github.io/refs/heads/main/source/content/Python%20%26%20Machine%20learning/ejercicios/ejercicios_modulo6.ipynb
+	* Enlace: [ejercicios6.ipynb](https://raw.githubusercontent.com/RafaeldelRio/rafaeldelrio.github.io/refs/heads/main/source/content/Python%20%26%20Machine%20learning/ejercicios/ejercicios_modulo6.ipynb)
 
 ---
 
