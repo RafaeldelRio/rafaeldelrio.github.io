@@ -12,6 +12,7 @@ Webs para practicar pentesting:
 	- HackTheBox: https://www.hackthebox.com/
 	- Pwned Labs: https://pwnedlabs.io/
 	- https://ctftime.org/
+	- https://www.cybrary.it/
 - Web
 	- https://overthewire.org/wargames/
 	- https://ginandjuice.shop/

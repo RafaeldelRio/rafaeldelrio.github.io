@@ -8,7 +8,7 @@ CI/CD: Jenkins/Github actions
 
 Test unitarios, test de integración, calidad de código y vulnerabilidades: Jest + Sonarqube
 
-Infrastructure as Code: Terraform + ansible
+Infrastructure as Code: Terraform + ansible (para testear terraform se puede probar localstack)
 
 IaaS (ec2) vs PaaS (Vercel)
 
