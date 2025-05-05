@@ -1,0 +1,52 @@
+---
+draft: "true"
+---
+
+- Septiembre
+	- 6
+	- 13
+	- 20
+	- 27
+- Octubre
+	- 4
+	- 11
+	- 18
+	- 25
+- Noviembre
+	- 1 (festivo con clase)
+	- 8
+	- 15
+	- 22
+- Diciembre
+	- 29 (noviembre)
+	- 6 (festivo con clase)
+	- 13
+	- 20
+- Enero
+	- 10
+	- 17
+	- 24
+	- 31
+- Febrero
+	- 7
+	- 14
+	- 21
+	- 28 (festivo con clase)
+- Marzo
+	- 7
+	- 14
+	- 21
+	- 28
+- Abril
+	- 11 
+	- 18
+	- 25
+	- 2 mayo
+- Mayo
+	- 9
+	- 16
+	- 23
+	- 30
+- Junio
+	- 6
+	- 13
