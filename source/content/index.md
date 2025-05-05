@@ -15,7 +15,7 @@ tags:
 # Apuntes y temario de SMR, DAW, CETI y otros
 
 ## Apuntes CETI
-- Apuntes y temario de Ciberseguridad en Entornos de las Tecnologías de la Información: [[CETI/index|CETI]]
+- Apuntes y temario de Ciberseguridad en Entornos de las Tecnologías de la Información: [[ceti/index|CETI]]
 
 ## Apuntes DAW
 - Apuntes y temario de Desarrollo de Aplicaciones Web: [[DAW/index|DAW]]
