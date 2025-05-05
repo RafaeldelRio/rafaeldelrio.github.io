@@ -32,3 +32,5 @@ Materiales en general:
 - [https://inventory.raw.pm/overview.html](https://inventory.raw.pm/overview.html)
 - https://github.com/bst04/CyberSources
 - https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/blue-defense/event-detection#nsm-network-security-monitoring
+- Apuntes de otros compañeros:
+	- https://github.com/JagMolar/CETI/tree/master/Hacking%20%C3%A9tico

@@ -21,3 +21,6 @@ Materiales en general:
 - https://github.com/meirwah/awesome-incident-response
 - https://github.com/mikeroyal/Open-Source-Security-Guide
 - https://github.com/rshipp/awesome-malware-analysis
+- Apuntes de otros compañeros
+	- https://github.com/JagMolar/CETI/tree/master/Incidentes%20de%20Ciberseguridad
+	- 
