@@ -6,65 +6,65 @@
       <description>Last 10 notes on 🪴 Rafael del Río</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/SMR/Aplicaciones-web/</link>
-    <guid>https://quartz.jzhao.xyz/SMR/Aplicaciones-web/</guid>
-    <description>Texto.</description>
-    <pubDate>Mon, 05 May 2025 08:25:46 GMT</pubDate>
+    <title>Unidad 2 - RA 2</title>
+    <link>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/RA-2/Unidad-2---RA-2</link>
+    <guid>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/RA-2/Unidad-2---RA-2</guid>
+    <description>Resultado de Aprendizaje 2: Determinación del nivel de seguridad requerido por aplicaciones Criterio 2.a: Caracterizar los niveles de verificación de seguridad en aplicaciones ...</description>
+    <pubDate>Mon, 05 May 2025 08:27:47 GMT</pubDate>
   </item><item>
-    <title>ra-criterios-contenidos-practicas</title>
-    <link>https://quartz.jzhao.xyz/SMR/Aplicaciones-web/ra-criterios-contenidos-practicas</link>
-    <guid>https://quartz.jzhao.xyz/SMR/Aplicaciones-web/ra-criterios-contenidos-practicas</guid>
-    <description>Introducción a Python: tryhackme.com/r/room/pythonbasics.</description>
-    <pubDate>Mon, 05 May 2025 08:25:46 GMT</pubDate>
+    <title>Unidad 3 - RA 3</title>
+    <link>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/RA-3/Unidad-3---RA-3</link>
+    <guid>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/RA-3/Unidad-3---RA-3</guid>
+    <description>Resultado de Aprendizaje 3: Detección y corrección de vulnerabilidades de aplicaciones web Criterio 3.a: Validar las entradas de los usuarios Conceptos: Técnicas de validación ...</description>
+    <pubDate>Mon, 05 May 2025 08:27:47 GMT</pubDate>
   </item><item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/SMR/Redes-locales/</link>
-    <guid>https://quartz.jzhao.xyz/SMR/Redes-locales/</guid>
-    <description>En primer lugar vamos a analizar los resultados de aprendizaje, criterios de evaluación, contenidos y posibles enlaces a las prácticas a realizar:.</description>
-    <pubDate>Mon, 05 May 2025 08:25:46 GMT</pubDate>
+    <title>Unidad 4 - RA 4</title>
+    <link>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/RA-4/Unidad-4---RA-4</link>
+    <guid>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/RA-4/Unidad-4---RA-4</guid>
+    <description>Resultado de Aprendizaje 4: Detección de problemas de seguridad en aplicaciones para dispositivos móviles Criterio 4.a: Comparar modelos de permisos de plataformas móviles Conceptos: ...</description>
+    <pubDate>Mon, 05 May 2025 08:27:47 GMT</pubDate>
   </item><item>
-    <title>ra-criterios-contenidos-practicas</title>
-    <link>https://quartz.jzhao.xyz/SMR/Redes-locales/ra-criterios-contenidos-practicas</link>
-    <guid>https://quartz.jzhao.xyz/SMR/Redes-locales/ra-criterios-contenidos-practicas</guid>
-    <description>Introducción a Linux: tryhackme.com/r/room/linuxfundamentalspart1 Intro a redes: tryhackme.com/r/room/whatisnetworking.</description>
-    <pubDate>Mon, 05 May 2025 08:25:46 GMT</pubDate>
+    <title>Unidad 5 - RA 5</title>
+    <link>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/RA-5/Unidad-5---RA-5</link>
+    <guid>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/RA-5/Unidad-5---RA-5</guid>
+    <description>Resultado de Aprendizaje 5: Implantación de sistemas seguros de desplegado de software Criterio 5.a: Identificar características, principios y objetivos de DevOps Conceptos: ...</description>
+    <pubDate>Mon, 05 May 2025 08:27:47 GMT</pubDate>
   </item><item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/SMR/Seguridad-inform%C3%A1tica/</link>
-    <guid>https://quartz.jzhao.xyz/SMR/Seguridad-inform%C3%A1tica/</guid>
-    <description>En primer lugar vamos a analizar los resultados de aprendizaje, criterios de evaluación, contenidos y posibles enlaces a las prácticas a realizar:.</description>
-    <pubDate>Mon, 05 May 2025 08:25:46 GMT</pubDate>
+    <title>Temario</title>
+    <link>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/Temario</link>
+    <guid>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/Temario</guid>
+    <description>Desglose del temario PPS: RA - Criterios - Contenidos Introducción a python: tryhackme.com/r/room/pythonbasics 1. Prueba aplicaciones web y aplicaciones para dispositivos móviles analizando la estructura del código y su modelo de ejecución.</description>
+    <pubDate>Mon, 05 May 2025 08:27:47 GMT</pubDate>
   </item><item>
-    <title>ra-criterios-contenidos-practicas</title>
-    <link>https://quartz.jzhao.xyz/SMR/Seguridad-inform%C3%A1tica/ra-criterios-contenidos-practicas</link>
-    <guid>https://quartz.jzhao.xyz/SMR/Seguridad-inform%C3%A1tica/ra-criterios-contenidos-practicas</guid>
-    <description>RA - Criterios - Contenidos - Prácticas RA 1. Aplica medidas de seguridad pasiva en sistemas informáticos describiendo características de entornos y relacionándolas con sus necesidades.</description>
-    <pubDate>Mon, 05 May 2025 08:25:46 GMT</pubDate>
+    <title>Puesta en producción segura</title>
+    <link>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/</link>
+    <guid>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/</guid>
+    <description>Puesta en Producción Segura es un módulo del curso de especialización en ciberseguridad en entornos de las tecnologías de la información (CETI). En esta documentación pretendo realizar una sugerencia de contenidos que se pueden impartir en cada uno de los resultados de aprendizaje esperados.</description>
+    <pubDate>Mon, 05 May 2025 08:27:47 GMT</pubDate>
   </item><item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/SMR/Servicios-en-red/</link>
-    <guid>https://quartz.jzhao.xyz/SMR/Servicios-en-red/</guid>
-    <description>En primer lugar vamos a analizar los resultados de aprendizaje, criterios de evaluación, contenidos y posibles enlaces a las prácticas a realizar:.</description>
-    <pubDate>Mon, 05 May 2025 08:25:46 GMT</pubDate>
+    <title>CETI</title>
+    <link>https://quartz.jzhao.xyz/ceti/</link>
+    <guid>https://quartz.jzhao.xyz/ceti/</guid>
+    <description>Web que contiene apuntes, exámenes, prácticas y temario de Ciberseguridad en Entornos de las Tecnologías de la Información.</description>
+    <pubDate>Mon, 05 May 2025 08:27:47 GMT</pubDate>
   </item><item>
-    <title>ra-criterios-contenidos-practicas</title>
-    <link>https://quartz.jzhao.xyz/SMR/Servicios-en-red/ra-criterios-contenidos-practicas</link>
-    <guid>https://quartz.jzhao.xyz/SMR/Servicios-en-red/ra-criterios-contenidos-practicas</guid>
-    <description>Introducción a Linux: tryhackme.com/r/room/linuxfundamentalspart1 Intro a redes: tryhackme.com/r/room/whatisnetworking Continuamos con redes: tryhackme.com/r/room/networkservices ...</description>
-    <pubDate>Mon, 05 May 2025 08:25:46 GMT</pubDate>
+    <title>Apuntes y temario de SMR, DAW, CETI y otros</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Web que contiene apuntes, exámenes, prácticas y temario de SMR, DAW, CETI y otros.</description>
+    <pubDate>Mon, 05 May 2025 08:27:47 GMT</pubDate>
   </item><item>
-    <title>SMR</title>
-    <link>https://quartz.jzhao.xyz/SMR/</link>
-    <guid>https://quartz.jzhao.xyz/SMR/</guid>
-    <description>Web que contiene apuntes, exámenes, prácticas y temario de Sistemas Microinformáticos y Redes.</description>
-    <pubDate>Mon, 05 May 2025 08:25:46 GMT</pubDate>
+    <title>4e - Documentación</title>
+    <link>https://quartz.jzhao.xyz/ceti/Incidentes-de-ciberseguridad/RA-4/4e---Documentaci%C3%B3n</link>
+    <guid>https://quartz.jzhao.xyz/ceti/Incidentes-de-ciberseguridad/RA-4/4e---Documentaci%C3%B3n</guid>
+    <description>Criterio de evaluación: e) Se han documentado las acciones realizadas y las conclusiones que permitan mantener un registro de “lecciones aprendidas”. Contenido asociado: Documentación Conceptos Plantillas de informes post-incidente.</description>
+    <pubDate>Mon, 05 May 2025 08:27:47 GMT</pubDate>
   </item><item>
-    <title>about</title>
-    <link>https://quartz.jzhao.xyz/about</link>
-    <guid>https://quartz.jzhao.xyz/about</guid>
-    <description>Sobre el proyecto Qué es este proyecto Esta página web nace con la idea de generar una documentación de módulos profesionales de FP. Buscando el objetivo de que esté online el mayor tiempo posible, está desplegado en distintos sistemas: Desplegado a través de Github pages en: rafaeldelrio.github.io Desplegado a través de Cloudflare pages en: web.cloudflare-nbkeq.workers.dev/ Desplegado a través de Gitlab pages en: web-dcb01e.gitlab.io/ A quién va dirigido Este proyecto ha sido creado con el propósito, en primer lugar, de ser útil para mí mismo.</description>
-    <pubDate>Mon, 05 May 2025 08:25:46 GMT</pubDate>
+    <title>4f -  Seguimiento de incidentes para evitar una situación similar</title>
+    <link>https://quartz.jzhao.xyz/ceti/Incidentes-de-ciberseguridad/RA-4/4f----Seguimiento-de-incidentes-para-evitar-una-situaci%C3%B3n-similar</link>
+    <guid>https://quartz.jzhao.xyz/ceti/Incidentes-de-ciberseguridad/RA-4/4f----Seguimiento-de-incidentes-para-evitar-una-situaci%C3%B3n-similar</guid>
+    <description>Criterio de evaluación: f) Se ha realizado un seguimiento adecuado del incidente para evitar que una situación similar se vuelva a repetir. Contenido asociado: Seguimiento de incidentes para evitar una situación similar.</description>
+    <pubDate>Mon, 05 May 2025 08:27:47 GMT</pubDate>
   </item>
     </channel>
   </rss>
