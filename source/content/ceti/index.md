@@ -19,3 +19,5 @@ Materiales preparados para el Curso de Especialización en Ciberseguridad en Ent
 - Incidentes de Ciberseguridad: [[ceti/Incidentes-de-ciberseguridad/index|IC]]
 - Normativa de Ciberseguridad: [[ceti/Normativa-de-ciberseguridad/index|NC]]
 - Puesta en Producción Segura: [[ceti/Puesta-en-produccion-segura/index|PPS]]
+- Bastionado de redes y sistemas (aún en borrador)
+- Análisis forense informático (aún en borrador)
