@@ -6,65 +6,65 @@
       <description>Last 10 notes on 🪴 Rafael del Río</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Unidad 2 - RA 2</title>
-    <link>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/RA-2/Unidad-2---RA-2</link>
-    <guid>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/RA-2/Unidad-2---RA-2</guid>
-    <description>Resultado de Aprendizaje 2: Determinación del nivel de seguridad requerido por aplicaciones Criterio 2.a: Caracterizar los niveles de verificación de seguridad en aplicaciones ...</description>
-    <pubDate>Mon, 05 May 2025 08:27:47 GMT</pubDate>
-  </item><item>
-    <title>Unidad 3 - RA 3</title>
-    <link>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/RA-3/Unidad-3---RA-3</link>
-    <guid>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/RA-3/Unidad-3---RA-3</guid>
-    <description>Resultado de Aprendizaje 3: Detección y corrección de vulnerabilidades de aplicaciones web Criterio 3.a: Validar las entradas de los usuarios Conceptos: Técnicas de validación ...</description>
-    <pubDate>Mon, 05 May 2025 08:27:47 GMT</pubDate>
-  </item><item>
-    <title>Unidad 4 - RA 4</title>
-    <link>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/RA-4/Unidad-4---RA-4</link>
-    <guid>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/RA-4/Unidad-4---RA-4</guid>
-    <description>Resultado de Aprendizaje 4: Detección de problemas de seguridad en aplicaciones para dispositivos móviles Criterio 4.a: Comparar modelos de permisos de plataformas móviles Conceptos: ...</description>
-    <pubDate>Mon, 05 May 2025 08:27:47 GMT</pubDate>
-  </item><item>
-    <title>Unidad 5 - RA 5</title>
-    <link>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/RA-5/Unidad-5---RA-5</link>
-    <guid>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/RA-5/Unidad-5---RA-5</guid>
-    <description>Resultado de Aprendizaje 5: Implantación de sistemas seguros de desplegado de software Criterio 5.a: Identificar características, principios y objetivos de DevOps Conceptos: ...</description>
-    <pubDate>Mon, 05 May 2025 08:27:47 GMT</pubDate>
-  </item><item>
-    <title>Temario</title>
-    <link>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/Temario</link>
-    <guid>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/Temario</guid>
-    <description>Desglose del temario PPS: RA - Criterios - Contenidos Introducción a python: tryhackme.com/r/room/pythonbasics 1. Prueba aplicaciones web y aplicaciones para dispositivos móviles analizando la estructura del código y su modelo de ejecución.</description>
-    <pubDate>Mon, 05 May 2025 08:27:47 GMT</pubDate>
-  </item><item>
     <title>Puesta en producción segura</title>
     <link>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/</link>
     <guid>https://quartz.jzhao.xyz/ceti/Puesta-en-produccion-segura/</guid>
     <description>Puesta en Producción Segura es un módulo del curso de especialización en ciberseguridad en entornos de las tecnologías de la información (CETI). En esta documentación pretendo realizar una sugerencia de contenidos que se pueden impartir en cada uno de los resultados de aprendizaje esperados.</description>
-    <pubDate>Mon, 05 May 2025 08:27:47 GMT</pubDate>
+    <pubDate>Mon, 05 May 2025 08:39:43 GMT</pubDate>
   </item><item>
     <title>CETI</title>
     <link>https://quartz.jzhao.xyz/ceti/</link>
     <guid>https://quartz.jzhao.xyz/ceti/</guid>
     <description>Web que contiene apuntes, exámenes, prácticas y temario de Ciberseguridad en Entornos de las Tecnologías de la Información.</description>
-    <pubDate>Mon, 05 May 2025 08:27:47 GMT</pubDate>
+    <pubDate>Mon, 05 May 2025 08:39:43 GMT</pubDate>
   </item><item>
     <title>Apuntes y temario de SMR, DAW, CETI y otros</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description>Web que contiene apuntes, exámenes, prácticas y temario de SMR, DAW, CETI y otros.</description>
-    <pubDate>Mon, 05 May 2025 08:27:47 GMT</pubDate>
+    <pubDate>Mon, 05 May 2025 08:39:43 GMT</pubDate>
   </item><item>
-    <title>4e - Documentación</title>
-    <link>https://quartz.jzhao.xyz/ceti/Incidentes-de-ciberseguridad/RA-4/4e---Documentaci%C3%B3n</link>
-    <guid>https://quartz.jzhao.xyz/ceti/Incidentes-de-ciberseguridad/RA-4/4e---Documentaci%C3%B3n</guid>
-    <description>Criterio de evaluación: e) Se han documentado las acciones realizadas y las conclusiones que permitan mantener un registro de “lecciones aprendidas”. Contenido asociado: Documentación Conceptos Plantillas de informes post-incidente.</description>
-    <pubDate>Mon, 05 May 2025 08:27:47 GMT</pubDate>
+    <title>Incidentes de ciberseguridad</title>
+    <link>https://quartz.jzhao.xyz/ceti/Incidentes-de-ciberseguridad/</link>
+    <guid>https://quartz.jzhao.xyz/ceti/Incidentes-de-ciberseguridad/</guid>
+    <description>Incidentes de ciberseguridad es un módulo del curso de especialización en ciberseguridad en entornos de las tecnologías de la información (CETI). En esta documentación pretendo realizar una sugerencia de contenidos que se pueden impartir en cada uno de los resultados de aprendizaje esperados.</description>
+    <pubDate>Mon, 05 May 2025 08:39:43 GMT</pubDate>
   </item><item>
-    <title>4f -  Seguimiento de incidentes para evitar una situación similar</title>
-    <link>https://quartz.jzhao.xyz/ceti/Incidentes-de-ciberseguridad/RA-4/4f----Seguimiento-de-incidentes-para-evitar-una-situaci%C3%B3n-similar</link>
-    <guid>https://quartz.jzhao.xyz/ceti/Incidentes-de-ciberseguridad/RA-4/4f----Seguimiento-de-incidentes-para-evitar-una-situaci%C3%B3n-similar</guid>
-    <description>Criterio de evaluación: f) Se ha realizado un seguimiento adecuado del incidente para evitar que una situación similar se vuelva a repetir. Contenido asociado: Seguimiento de incidentes para evitar una situación similar.</description>
-    <pubDate>Mon, 05 May 2025 08:27:47 GMT</pubDate>
+    <title>Unidad 1 - RA 1</title>
+    <link>https://quartz.jzhao.xyz/ceti/Normativa-de-ciberseguridad/RA-1/Unidad-1---RA-1</link>
+    <guid>https://quartz.jzhao.xyz/ceti/Normativa-de-ciberseguridad/RA-1/Unidad-1---RA-1</guid>
+    <description>CE - 1a: a) Se han identificado las bases del cumplimiento normativo a tener en cuenta en las organizaciones. Contenido asociado: Introducción al cumplimiento normativo (Compliance: objetivo, definición y conceptos principales).</description>
+    <pubDate>Mon, 05 May 2025 08:39:43 GMT</pubDate>
+  </item><item>
+    <title>Unidad 2 - RA 2</title>
+    <link>https://quartz.jzhao.xyz/ceti/Normativa-de-ciberseguridad/RA-2/Unidad-2---RA-2</link>
+    <guid>https://quartz.jzhao.xyz/ceti/Normativa-de-ciberseguridad/RA-2/Unidad-2---RA-2</guid>
+    <description>CE - 2a: a) Se han recogido las principales normativas que afectan a los diferentes tipos de organizaciones. Contenido asociado: Entorno regulatorio de aplicación.</description>
+    <pubDate>Mon, 05 May 2025 08:39:43 GMT</pubDate>
+  </item><item>
+    <title>Unidad 3 - RA 3</title>
+    <link>https://quartz.jzhao.xyz/ceti/Normativa-de-ciberseguridad/RA-3/Unidad-3---RA-3</link>
+    <guid>https://quartz.jzhao.xyz/ceti/Normativa-de-ciberseguridad/RA-3/Unidad-3---RA-3</guid>
+    <description>CE - 3a: a) Se han identificado los riesgos penales aplicables a diferentes organizaciones. Contenido asociado: Riesgos penales que afectan a la organización.</description>
+    <pubDate>Mon, 05 May 2025 08:39:43 GMT</pubDate>
+  </item><item>
+    <title>Unidad 4 - RA 4</title>
+    <link>https://quartz.jzhao.xyz/ceti/Normativa-de-ciberseguridad/RA-4/Unidad-4---RA-4</link>
+    <guid>https://quartz.jzhao.xyz/ceti/Normativa-de-ciberseguridad/RA-4/Unidad-4---RA-4</guid>
+    <description>CE - 4a: a) Se han reconocido las fuentes del Derecho de acuerdo con el ordenamiento jurídico en materia de protección de datos de carácter personal. Contenido asociado: Novedades del RGPD de la Unión Europea.</description>
+    <pubDate>Mon, 05 May 2025 08:39:43 GMT</pubDate>
+  </item><item>
+    <title>Unidad 5 - RA 5</title>
+    <link>https://quartz.jzhao.xyz/ceti/Normativa-de-ciberseguridad/RA-5/Unidad-5---RA-5</link>
+    <guid>https://quartz.jzhao.xyz/ceti/Normativa-de-ciberseguridad/RA-5/Unidad-5---RA-5</guid>
+    <description>CE - 5a: a) Se ha establecido el plan de revisiones de la normativa, jurisprudencia, notificaciones, etc. jurídicas que puedan afectar a la organización.</description>
+    <pubDate>Mon, 05 May 2025 08:39:43 GMT</pubDate>
+  </item><item>
+    <title>Temario</title>
+    <link>https://quartz.jzhao.xyz/ceti/Normativa-de-ciberseguridad/Temario</link>
+    <guid>https://quartz.jzhao.xyz/ceti/Normativa-de-ciberseguridad/Temario</guid>
+    <description>Desglose del temario NC: RA - Criterios - Contenidos 1. Identifica los puntos principales de aplicación para asegurar el cumplimiento normativo reconociendo funciones y responsabilidades.</description>
+    <pubDate>Mon, 05 May 2025 08:39:43 GMT</pubDate>
   </item>
     </channel>
   </rss>
