@@ -62,7 +62,7 @@ La solución del ejercicio está disponibles en: [[Soluciones boletín 3#Solucio
 Mejora el ejercicio 4 para unificar el código que muestra los teléfonos compatibles de un `Accesorio`. PISTA: Puedes usar un bloque if/else con `instanceof`, y en función de eso, establecer el valor de la cadena de caracteres que se muestra.
 
 ## Ejercicio 6
-6. Implementa una aplicación para la gestión de los electrodomésticos de un bazar o tienda similar. Para ello, se necesitan las siguintes clases:
+Implementa una aplicación para la gestión de los electrodomésticos de un bazar o tienda similar. Para ello, se necesitan las siguintes clases:
 
    - `Electrodomestico`: de ellos queremos saber el tipo (congelador, lavadora, ...), la marca y modelo, la potencia y el precio. Debe incluir un método que devuelva el consumo eléctrico en función del número de horas que haya funcionado (argumento del método como número decimal).
    - `Congelador`: es un tipo de Electrodomestico que añade como atributo `turbo`, que indica si está funcionando en este modo (booleano). Cuando un congelador está funcionando de este modo incrementa el consumo de forma que invierte un 25% más de potencia. Por tanto, hay que sobrescribir el método que calcula el consumo para incluir este comportamiento.

@@ -94,20 +94,7 @@ El objetivo es llevar al alumnado desde cero (o casi cero) en programación hast
         * Evaluación del modelo: Interpretar las métricas de rendimiento *en el contexto del problema de seguridad*. ¿Qué significa una alta precisión o un alto recall en detección de malware?
         * Visualización de resultados (si el ejemplo la incluye).
     * **Adaptación y Experimentación:** Animar a los alumnos a hacer pequeñas modificaciones (cambiar parámetros, probar otro modelo simple) para ver cómo afecta al resultado.
-* **Ejercicios:** Para practicar estos conceptos, se debe emplear el archivo `ejercicios_modulo5.ipynb`.
-	* Enlace: [ejercicios5.ipynb](https://raw.githubusercontent.com/RafaeldelRio/rafaeldelrio.github.io/refs/heads/main/source/content/Python%20%26%20Machine%20learning/ejercicios/ejercicios_modulo5.ipynb)
 
-### Módulo 6: Consideraciones Éticas y Próximos Pasos (Cierre)
-
-* **Objetivo:** Reflexionar sobre el uso responsable de la IA y las limitaciones.
-* **Conceptos:**
-    * Sesgos en los datos y algoritmos de IA en seguridad.
-    * Importancia de la interpretabilidad (Explainable AI - XAI): ¿Por qué el modelo tomó esa decisión?
-    * Adversarial Machine Learning: Ataques contra modelos de IA.
-    * Limitaciones actuales de la IA en ciberseguridad.
-    * Recursos para seguir aprendiendo.
-* **Ejercicios:** Para practicar estos conceptos, se debe emplear el archivo `ejercicios_modulo6.ipynb`.
-	* Enlace: [ejercicios6.ipynb](https://raw.githubusercontent.com/RafaeldelRio/rafaeldelrio.github.io/refs/heads/main/source/content/Python%20%26%20Machine%20learning/ejercicios/ejercicios_modulo6.ipynb)
 
 ---
 
