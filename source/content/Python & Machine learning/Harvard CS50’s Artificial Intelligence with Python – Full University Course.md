@@ -1,3 +1,7 @@
+---
+draft: "true"
+---
+
 Apuntes del vídeo: https://www.youtube.com/watch?v=5NgNicANyqM
 
 ## Search
@@ -32,4 +36,44 @@ Apuntes del vídeo: https://www.youtube.com/watch?v=5NgNicANyqM
 				- Enfoque de **búsqueda en profundidad.**
 			- *Mejora: queue (cola): first in first out (FIFO) para decidir qué nodo se explora el siguiente.*
 				- Enfoque de **búsqueda en anchura.**
-	-  
+	-  uninformed search
+	- informed search
+	- greedy best-first search
+		- heurística h(n)
+			- Distancia Manhattan
+	- A* search
+		- Considera h(n) + g(n)
+			- h(n): heurística hasta objetivo
+			- g(n): coste para llegar a ese nodo
+	- Adversarial search
+		- Minimax
+			- Min: minimiza puntos (gana un jugador)
+			- Max: maximiza puntos (gana otro jugador)
+			- Game
+				- S0: estado inicial
+				- player(s): pueden mover estado s
+				- action(s): acciones posibles en el estado s
+				- result(s,a): devuelve el estado tras la acción a en el estado s
+				- terminal(s): comprueba si el juego terminó
+				- utility(s): valor que tiene el estado final del juego
+			- El algoritmo dado un estado s
+				- El jugador MAX escogerá la acción a, dentro del conjunto action(s) que produce el mayor valor de MIN-VALUE(result(s,a))
+				- El jugador MIN escogerá la acción a, dentro del conjunto action (s) que produce el menor valor de MAX-VALUE(result(s,a))
+```python
+def MAX_VALUE(state):
+	if terminal(state):
+		return utility(state)
+	v = -infinity
+	for action in action(s):
+		v = MAX(v, MIN_VALUE(result(state, action)))
+	return v
+```
+
+
+				- optimizaciones:
+					- Alpha-Beta prunning:
+						- Eliminar nodos que no van a subir o bajar el valor que ya tiene un nodo anterior
+			- Algoritmo Depth-Limited Minimax
+				- evaluation function:
+					- Dado un estado, obtiene la utility(state), es decir, cómo va el juego.
+			- 
