@@ -1,0 +1,15 @@
+- https://www.genbeta.com/desarrollo/mejores-recursos-cursos-gratis-online-para-formarte-inteligencia-artificial
+- https://www.kaggle.com/learn
+- https://github.com/gmonce/datascience
+- https://leanpub.com/aprendeml
+- https://ocw.uc3m.es/course/index.php?categoryid=31
+- https://www.cs.us.es/~fsancho/
+- https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg
+- https://www.coppeliarobotics.com/
+- https://www.juanbarrios.com/inteligencia-artificial-y-salud-caso-practico/
+- https://www.w3schools.com/python/default.asp
+- https://www.w3schools.com/r/default.asp
+- https://github.com/buguroo/pyknow
+- https://www.vectoritcgroup.com/wp-content/uploads/2018/06/IA-Pasado-presente-y-futuro-Vector-ITC.pdf
+- https://github.com/MicrosoftDocs/ms-learn-ml-crash-course-R
+- https://aiyprojects.withgoogle.com/
