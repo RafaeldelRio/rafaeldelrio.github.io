@@ -1,4 +1,4 @@
-Para este apartado me baso en el github https://github.com/cylance/IntroductionToMachineLearningForSecurityPros, el cual contiene un libro (libre) muy bueno para aprender "Introduction to Artificial Intelligence for Security Professionals". En este caso lo he adaptado para profesionales con conocimientos limitados de programación.
+Para este apartado me baso en el github https://github.com/RafaeldelRio/IntroductionToMachineLearningForSecurityPros, el cual contiene un libro (libre) muy bueno para aprender "Introduction to Artificial Intelligence for Security Professionals". En este caso lo he adaptado para profesionales con conocimientos limitados de programación.
 
 ---
 
